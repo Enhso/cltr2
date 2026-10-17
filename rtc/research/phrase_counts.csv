@@ -1,0 +1,1032 @@
+repo,month,family,phrase,github_total,retrieved
+anthropics/claude-code,2025-03,destructive,rm -rf,3,3
+anthropics/claude-code,2025-03,destructive,wiped,1,1
+anthropics/claude-code,2025-03,ignored_instruction,ignoring instructions,1,1
+anthropics/claude-code,2025-03,misreport,claimed it,1,1
+anthropics/claude-code,2025-03,safeguard_bypass,bypassing,1,1
+anthropics/claude-code,2025-03,safeguard_bypass,circumvent,1,1
+anthropics/claude-code,2025-03,safeguard_bypass,without approval,1,1
+anthropics/claude-code,2025-03,safeguard_bypass,without asking,2,2
+anthropics/claude-code,2025-03,safeguard_bypass,without permission,4,4
+anthropics/claude-code,2025-04,destructive,rm -rf,1,1
+anthropics/claude-code,2025-04,ignored_instruction,explicitly told,1,1
+anthropics/claude-code,2025-04,ignored_instruction,ignores instructions,1,1
+anthropics/claude-code,2025-04,ignored_instruction,ignoring instructions,1,1
+anthropics/claude-code,2025-04,safeguard_bypass,bypassed,1,1
+anthropics/claude-code,2025-04,safeguard_bypass,without asking,1,1
+anthropics/claude-code,2025-04,safeguard_bypass,without permission,1,1
+anthropics/claude-code,2025-05,destructive,deleted all,1,1
+anthropics/claude-code,2025-05,destructive,deleted my,2,2
+anthropics/claude-code,2025-05,destructive,dropped the,1,1
+anthropics/claude-code,2025-05,destructive,force push,1,1
+anthropics/claude-code,2025-05,destructive,git reset --hard,1,1
+anthropics/claude-code,2025-05,destructive,push --force,1,1
+anthropics/claude-code,2025-05,destructive,rm -rf,3,3
+anthropics/claude-code,2025-05,ignored_instruction,ignored the instruction,1,1
+anthropics/claude-code,2025-05,ignored_instruction,ignores instructions,1,1
+anthropics/claude-code,2025-05,misreport,claimed it,1,1
+anthropics/claude-code,2025-05,misreport,lied,3,3
+anthropics/claude-code,2025-05,misreport,lying,2,2
+anthropics/claude-code,2025-05,safeguard_bypass,bypass the permission,2,2
+anthropics/claude-code,2025-05,safeguard_bypass,bypassed,1,1
+anthropics/claude-code,2025-05,safeguard_bypass,bypassing,5,5
+anthropics/claude-code,2025-05,safeguard_bypass,deny rule,1,1
+anthropics/claude-code,2025-05,safeguard_bypass,without asking,1,1
+anthropics/claude-code,2025-05,safeguard_bypass,without permission,8,8
+anthropics/claude-code,2025-06,destructive,deleted all,1,1
+anthropics/claude-code,2025-06,destructive,deleted files,2,2
+anthropics/claude-code,2025-06,destructive,deleted my,3,3
+anthropics/claude-code,2025-06,destructive,dropped the,1,1
+anthropics/claude-code,2025-06,destructive,git reset --hard,3,3
+anthropics/claude-code,2025-06,destructive,rm -rf,9,9
+anthropics/claude-code,2025-06,destructive,wiped,6,6
+anthropics/claude-code,2025-06,ignored_instruction,explicitly told,2,2
+anthropics/claude-code,2025-06,ignored_instruction,ignored the instruction,1,1
+anthropics/claude-code,2025-06,ignored_instruction,ignores instructions,2,2
+anthropics/claude-code,2025-06,ignored_instruction,ignoring instructions,1,1
+anthropics/claude-code,2025-06,misreport,claimed it,1,1
+anthropics/claude-code,2025-06,misreport,fabricated,3,3
+anthropics/claude-code,2025-06,misreport,lied,2,2
+anthropics/claude-code,2025-06,misreport,lying,1,1
+anthropics/claude-code,2025-06,safeguard_bypass,bypass the permission,3,3
+anthropics/claude-code,2025-06,safeguard_bypass,bypassed,3,3
+anthropics/claude-code,2025-06,safeguard_bypass,bypassing,4,4
+anthropics/claude-code,2025-06,safeguard_bypass,deny rule,3,3
+anthropics/claude-code,2025-06,safeguard_bypass,without approval,4,4
+anthropics/claude-code,2025-06,safeguard_bypass,without asking,4,4
+anthropics/claude-code,2025-06,safeguard_bypass,without permission,13,13
+anthropics/claude-code,2025-07,destructive,deleted all,6,6
+anthropics/claude-code,2025-07,destructive,deleted files,7,7
+anthropics/claude-code,2025-07,destructive,deleted my,3,3
+anthropics/claude-code,2025-07,destructive,dropped the,1,1
+anthropics/claude-code,2025-07,destructive,force push,3,3
+anthropics/claude-code,2025-07,destructive,git reset --hard,2,2
+anthropics/claude-code,2025-07,destructive,push --force,3,3
+anthropics/claude-code,2025-07,destructive,rm -rf,11,11
+anthropics/claude-code,2025-07,destructive,wiped,3,3
+anthropics/claude-code,2025-07,ignored_instruction,explicitly told,3,3
+anthropics/claude-code,2025-07,ignored_instruction,ignored my instructions,1,1
+anthropics/claude-code,2025-07,ignored_instruction,ignored the instruction,5,5
+anthropics/claude-code,2025-07,ignored_instruction,ignores instructions,2,2
+anthropics/claude-code,2025-07,ignored_instruction,ignoring instructions,7,7
+anthropics/claude-code,2025-07,ignored_instruction,told it not to,4,4
+anthropics/claude-code,2025-07,misreport,fabricated,2,2
+anthropics/claude-code,2025-07,misreport,lied,1,1
+anthropics/claude-code,2025-07,misreport,lying,1,1
+anthropics/claude-code,2025-07,safeguard_bypass,bypass the permission,1,1
+anthropics/claude-code,2025-07,safeguard_bypass,bypassed,1,1
+anthropics/claude-code,2025-07,safeguard_bypass,bypassing,6,6
+anthropics/claude-code,2025-07,safeguard_bypass,deny rule,7,7
+anthropics/claude-code,2025-07,safeguard_bypass,without approval,6,6
+anthropics/claude-code,2025-07,safeguard_bypass,without asking,8,8
+anthropics/claude-code,2025-07,safeguard_bypass,without permission,22,22
+anthropics/claude-code,2025-08,destructive,deleted all,10,10
+anthropics/claude-code,2025-08,destructive,deleted files,12,12
+anthropics/claude-code,2025-08,destructive,deleted my,4,4
+anthropics/claude-code,2025-08,destructive,drop table,1,1
+anthropics/claude-code,2025-08,destructive,force push,1,1
+anthropics/claude-code,2025-08,destructive,git reset --hard,1,1
+anthropics/claude-code,2025-08,destructive,push --force,1,1
+anthropics/claude-code,2025-08,destructive,rm -rf,16,16
+anthropics/claude-code,2025-08,destructive,wiped,4,4
+anthropics/claude-code,2025-08,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2025-08,ignored_instruction,explicitly told,5,5
+anthropics/claude-code,2025-08,ignored_instruction,ignored the instruction,3,3
+anthropics/claude-code,2025-08,ignored_instruction,ignores instructions,8,8
+anthropics/claude-code,2025-08,ignored_instruction,ignoring instructions,5,5
+anthropics/claude-code,2025-08,ignored_instruction,told it not to,1,1
+anthropics/claude-code,2025-08,misreport,claimed it,2,2
+anthropics/claude-code,2025-08,misreport,fabricated,5,5
+anthropics/claude-code,2025-08,misreport,faked,2,2
+anthropics/claude-code,2025-08,misreport,lied,5,5
+anthropics/claude-code,2025-08,misreport,lying,13,13
+anthropics/claude-code,2025-08,misreport,pretended,2,2
+anthropics/claude-code,2025-08,safeguard_bypass,bypass the permission,11,11
+anthropics/claude-code,2025-08,safeguard_bypass,bypassed,9,9
+anthropics/claude-code,2025-08,safeguard_bypass,bypassing,10,10
+anthropics/claude-code,2025-08,safeguard_bypass,circumvent,2,2
+anthropics/claude-code,2025-08,safeguard_bypass,deny rule,14,14
+anthropics/claude-code,2025-08,safeguard_bypass,without approval,20,20
+anthropics/claude-code,2025-08,safeguard_bypass,without asking,10,10
+anthropics/claude-code,2025-08,safeguard_bypass,without permission,39,39
+anthropics/claude-code,2025-09,destructive,deleted all,3,3
+anthropics/claude-code,2025-09,destructive,deleted files,3,3
+anthropics/claude-code,2025-09,destructive,deleted my,2,2
+anthropics/claude-code,2025-09,destructive,drop table,2,2
+anthropics/claude-code,2025-09,destructive,dropped the,2,2
+anthropics/claude-code,2025-09,destructive,force push,3,3
+anthropics/claude-code,2025-09,destructive,git reset --hard,3,3
+anthropics/claude-code,2025-09,destructive,push --force,3,3
+anthropics/claude-code,2025-09,destructive,rm -rf,11,11
+anthropics/claude-code,2025-09,destructive,wiped,1,1
+anthropics/claude-code,2025-09,ignored_instruction,despite being told,4,4
+anthropics/claude-code,2025-09,ignored_instruction,explicitly told,9,9
+anthropics/claude-code,2025-09,ignored_instruction,ignored my instructions,7,7
+anthropics/claude-code,2025-09,ignored_instruction,ignored the instruction,4,4
+anthropics/claude-code,2025-09,ignored_instruction,ignores instructions,13,13
+anthropics/claude-code,2025-09,ignored_instruction,ignoring instructions,8,8
+anthropics/claude-code,2025-09,ignored_instruction,told it not to,6,6
+anthropics/claude-code,2025-09,misreport,claimed it,4,4
+anthropics/claude-code,2025-09,misreport,fabricated,4,4
+anthropics/claude-code,2025-09,misreport,faked,1,1
+anthropics/claude-code,2025-09,misreport,lied,3,3
+anthropics/claude-code,2025-09,misreport,lying,9,9
+anthropics/claude-code,2025-09,safeguard_bypass,bypass the permission,3,3
+anthropics/claude-code,2025-09,safeguard_bypass,bypassed,8,8
+anthropics/claude-code,2025-09,safeguard_bypass,bypassing,7,7
+anthropics/claude-code,2025-09,safeguard_bypass,deny rule,6,6
+anthropics/claude-code,2025-09,safeguard_bypass,without approval,10,10
+anthropics/claude-code,2025-09,safeguard_bypass,without asking,15,15
+anthropics/claude-code,2025-09,safeguard_bypass,without permission,30,30
+anthropics/claude-code,2025-10,destructive,deleted all,12,12
+anthropics/claude-code,2025-10,destructive,deleted files,6,6
+anthropics/claude-code,2025-10,destructive,deleted my,3,3
+anthropics/claude-code,2025-10,destructive,dropped the,3,3
+anthropics/claude-code,2025-10,destructive,force push,3,3
+anthropics/claude-code,2025-10,destructive,git reset --hard,2,2
+anthropics/claude-code,2025-10,destructive,push --force,3,3
+anthropics/claude-code,2025-10,destructive,rm -rf,17,17
+anthropics/claude-code,2025-10,destructive,wiped,4,4
+anthropics/claude-code,2025-10,ignored_instruction,explicitly told,3,3
+anthropics/claude-code,2025-10,ignored_instruction,ignored my instructions,10,10
+anthropics/claude-code,2025-10,ignored_instruction,ignored the instruction,2,2
+anthropics/claude-code,2025-10,ignored_instruction,ignores instructions,9,9
+anthropics/claude-code,2025-10,ignored_instruction,ignoring instructions,4,4
+anthropics/claude-code,2025-10,misreport,claimed it,2,2
+anthropics/claude-code,2025-10,misreport,fabricated,4,4
+anthropics/claude-code,2025-10,misreport,lied,1,1
+anthropics/claude-code,2025-10,misreport,lying,3,3
+anthropics/claude-code,2025-10,safeguard_bypass,bypass the permission,6,6
+anthropics/claude-code,2025-10,safeguard_bypass,bypassed,10,10
+anthropics/claude-code,2025-10,safeguard_bypass,bypassing,6,6
+anthropics/claude-code,2025-10,safeguard_bypass,circumvent,2,2
+anthropics/claude-code,2025-10,safeguard_bypass,deny rule,9,9
+anthropics/claude-code,2025-10,safeguard_bypass,without approval,15,15
+anthropics/claude-code,2025-10,safeguard_bypass,without asking,17,17
+anthropics/claude-code,2025-10,safeguard_bypass,without permission,30,30
+anthropics/claude-code,2025-11,destructive,deleted all,8,8
+anthropics/claude-code,2025-11,destructive,deleted files,3,3
+anthropics/claude-code,2025-11,destructive,deleted my,4,4
+anthropics/claude-code,2025-11,destructive,drop table,2,2
+anthropics/claude-code,2025-11,destructive,dropped the,5,5
+anthropics/claude-code,2025-11,destructive,force push,2,2
+anthropics/claude-code,2025-11,destructive,git reset --hard,3,3
+anthropics/claude-code,2025-11,destructive,push --force,2,2
+anthropics/claude-code,2025-11,destructive,rm -rf,17,17
+anthropics/claude-code,2025-11,destructive,wiped,2,2
+anthropics/claude-code,2025-11,ignored_instruction,against my instructions,1,1
+anthropics/claude-code,2025-11,ignored_instruction,despite being told,2,2
+anthropics/claude-code,2025-11,ignored_instruction,explicitly told,3,3
+anthropics/claude-code,2025-11,ignored_instruction,ignored my instructions,7,7
+anthropics/claude-code,2025-11,ignored_instruction,ignored the instruction,1,1
+anthropics/claude-code,2025-11,ignored_instruction,ignores instructions,8,8
+anthropics/claude-code,2025-11,ignored_instruction,ignoring instructions,5,5
+anthropics/claude-code,2025-11,ignored_instruction,told it not to,2,2
+anthropics/claude-code,2025-11,misreport,claimed it,2,2
+anthropics/claude-code,2025-11,misreport,fabricated,5,5
+anthropics/claude-code,2025-11,misreport,lied,2,2
+anthropics/claude-code,2025-11,misreport,lying,7,7
+anthropics/claude-code,2025-11,misreport,pretended,1,1
+anthropics/claude-code,2025-11,safeguard_bypass,bypass the permission,3,3
+anthropics/claude-code,2025-11,safeguard_bypass,bypassed,4,4
+anthropics/claude-code,2025-11,safeguard_bypass,bypassing,11,11
+anthropics/claude-code,2025-11,safeguard_bypass,circumvent,2,2
+anthropics/claude-code,2025-11,safeguard_bypass,deny rule,9,9
+anthropics/claude-code,2025-11,safeguard_bypass,without approval,9,9
+anthropics/claude-code,2025-11,safeguard_bypass,without asking,20,20
+anthropics/claude-code,2025-11,safeguard_bypass,without permission,30,30
+anthropics/claude-code,2025-12,destructive,deleted all,11,11
+anthropics/claude-code,2025-12,destructive,deleted files,17,17
+anthropics/claude-code,2025-12,destructive,deleted my,3,3
+anthropics/claude-code,2025-12,destructive,drop table,1,1
+anthropics/claude-code,2025-12,destructive,dropped the,6,6
+anthropics/claude-code,2025-12,destructive,force push,10,10
+anthropics/claude-code,2025-12,destructive,git reset --hard,3,3
+anthropics/claude-code,2025-12,destructive,push --force,11,11
+anthropics/claude-code,2025-12,destructive,rm -rf,34,34
+anthropics/claude-code,2025-12,destructive,wiped,6,6
+anthropics/claude-code,2025-12,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2025-12,ignored_instruction,explicitly told,6,6
+anthropics/claude-code,2025-12,ignored_instruction,ignored my instructions,15,15
+anthropics/claude-code,2025-12,ignored_instruction,ignored the instruction,3,3
+anthropics/claude-code,2025-12,ignored_instruction,ignores instructions,12,12
+anthropics/claude-code,2025-12,ignored_instruction,ignoring instructions,9,9
+anthropics/claude-code,2025-12,ignored_instruction,told it not to,4,4
+anthropics/claude-code,2025-12,misreport,claimed it,2,2
+anthropics/claude-code,2025-12,misreport,fabricated,11,11
+anthropics/claude-code,2025-12,misreport,lied,3,3
+anthropics/claude-code,2025-12,misreport,lying,2,2
+anthropics/claude-code,2025-12,safeguard_bypass,bypass the permission,9,9
+anthropics/claude-code,2025-12,safeguard_bypass,bypassed,16,16
+anthropics/claude-code,2025-12,safeguard_bypass,bypassing,6,6
+anthropics/claude-code,2025-12,safeguard_bypass,circumvent,4,4
+anthropics/claude-code,2025-12,safeguard_bypass,deny rule,13,13
+anthropics/claude-code,2025-12,safeguard_bypass,without approval,29,29
+anthropics/claude-code,2025-12,safeguard_bypass,without asking,28,28
+anthropics/claude-code,2025-12,safeguard_bypass,without permission,52,52
+anthropics/claude-code,2026-01,destructive,deleted all,30,30
+anthropics/claude-code,2026-01,destructive,deleted files,35,35
+anthropics/claude-code,2026-01,destructive,deleted my,9,9
+anthropics/claude-code,2026-01,destructive,drop table,6,6
+anthropics/claude-code,2026-01,destructive,dropped the,21,21
+anthropics/claude-code,2026-01,destructive,force push,18,18
+anthropics/claude-code,2026-01,destructive,git reset --hard,10,10
+anthropics/claude-code,2026-01,destructive,push --force,18,18
+anthropics/claude-code,2026-01,destructive,rm -rf,97,97
+anthropics/claude-code,2026-01,destructive,wiped,10,10
+anthropics/claude-code,2026-01,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2026-01,ignored_instruction,explicitly told,8,8
+anthropics/claude-code,2026-01,ignored_instruction,ignored my instructions,12,12
+anthropics/claude-code,2026-01,ignored_instruction,ignored the instruction,11,11
+anthropics/claude-code,2026-01,ignored_instruction,ignores instructions,37,37
+anthropics/claude-code,2026-01,ignored_instruction,ignoring instructions,13,13
+anthropics/claude-code,2026-01,ignored_instruction,told it not to,2,2
+anthropics/claude-code,2026-01,misreport,claimed it,6,6
+anthropics/claude-code,2026-01,misreport,fabricated,7,7
+anthropics/claude-code,2026-01,misreport,falsely claimed,1,1
+anthropics/claude-code,2026-01,misreport,lied,7,7
+anthropics/claude-code,2026-01,misreport,lying,5,5
+anthropics/claude-code,2026-01,safeguard_bypass,bypass the permission,38,38
+anthropics/claude-code,2026-01,safeguard_bypass,bypassed,35,35
+anthropics/claude-code,2026-01,safeguard_bypass,bypassing,41,41
+anthropics/claude-code,2026-01,safeguard_bypass,circumvent,7,7
+anthropics/claude-code,2026-01,safeguard_bypass,deny rule,29,29
+anthropics/claude-code,2026-01,safeguard_bypass,without approval,37,37
+anthropics/claude-code,2026-01,safeguard_bypass,without asking,49,49
+anthropics/claude-code,2026-01,safeguard_bypass,without permission,124,124
+anthropics/claude-code,2026-02,destructive,deleted all,28,28
+anthropics/claude-code,2026-02,destructive,deleted files,46,46
+anthropics/claude-code,2026-02,destructive,deleted my,13,13
+anthropics/claude-code,2026-02,destructive,drop table,5,5
+anthropics/claude-code,2026-02,destructive,dropped the,78,78
+anthropics/claude-code,2026-02,destructive,force push,25,25
+anthropics/claude-code,2026-02,destructive,git reset --hard,15,15
+anthropics/claude-code,2026-02,destructive,push --force,26,26
+anthropics/claude-code,2026-02,destructive,rm -rf,79,79
+anthropics/claude-code,2026-02,destructive,wiped,29,29
+anthropics/claude-code,2026-02,ignored_instruction,against my instructions,1,1
+anthropics/claude-code,2026-02,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2026-02,ignored_instruction,explicitly told,16,16
+anthropics/claude-code,2026-02,ignored_instruction,ignored my instructions,19,19
+anthropics/claude-code,2026-02,ignored_instruction,ignored the instruction,8,8
+anthropics/claude-code,2026-02,ignored_instruction,ignores instructions,43,43
+anthropics/claude-code,2026-02,ignored_instruction,ignoring instructions,14,14
+anthropics/claude-code,2026-02,ignored_instruction,told it not to,4,4
+anthropics/claude-code,2026-02,misreport,claimed it,15,15
+anthropics/claude-code,2026-02,misreport,fabricated,32,32
+anthropics/claude-code,2026-02,misreport,faked,1,1
+anthropics/claude-code,2026-02,misreport,falsely claimed,3,3
+anthropics/claude-code,2026-02,misreport,lied,7,7
+anthropics/claude-code,2026-02,misreport,lying,7,7
+anthropics/claude-code,2026-02,safeguard_bypass,bypass the permission,45,45
+anthropics/claude-code,2026-02,safeguard_bypass,bypassed,36,36
+anthropics/claude-code,2026-02,safeguard_bypass,bypassing,41,41
+anthropics/claude-code,2026-02,safeguard_bypass,circumvent,5,5
+anthropics/claude-code,2026-02,safeguard_bypass,deny rule,50,50
+anthropics/claude-code,2026-02,safeguard_bypass,without approval,50,50
+anthropics/claude-code,2026-02,safeguard_bypass,without asking,41,41
+anthropics/claude-code,2026-02,safeguard_bypass,without permission,109,109
+anthropics/claude-code,2026-03,destructive,deleted all,83,83
+anthropics/claude-code,2026-03,destructive,deleted files,91,91
+anthropics/claude-code,2026-03,destructive,deleted my,11,11
+anthropics/claude-code,2026-03,destructive,drop table,9,9
+anthropics/claude-code,2026-03,destructive,dropped the,153,153
+anthropics/claude-code,2026-03,destructive,force push,32,32
+anthropics/claude-code,2026-03,destructive,git reset --hard,20,20
+anthropics/claude-code,2026-03,destructive,push --force,32,32
+anthropics/claude-code,2026-03,destructive,rm -rf,122,122
+anthropics/claude-code,2026-03,destructive,wiped,53,53
+anthropics/claude-code,2026-03,ignored_instruction,despite being told,6,6
+anthropics/claude-code,2026-03,ignored_instruction,explicitly told,26,26
+anthropics/claude-code,2026-03,ignored_instruction,ignored my instructions,46,46
+anthropics/claude-code,2026-03,ignored_instruction,ignored the instruction,30,30
+anthropics/claude-code,2026-03,ignored_instruction,ignores instructions,54,54
+anthropics/claude-code,2026-03,ignored_instruction,ignoring instructions,20,20
+anthropics/claude-code,2026-03,ignored_instruction,told it not to,7,7
+anthropics/claude-code,2026-03,misreport,claimed it,22,22
+anthropics/claude-code,2026-03,misreport,fabricated,59,59
+anthropics/claude-code,2026-03,misreport,faked,2,2
+anthropics/claude-code,2026-03,misreport,falsely claimed,4,4
+anthropics/claude-code,2026-03,misreport,lied,11,11
+anthropics/claude-code,2026-03,misreport,lying,23,23
+anthropics/claude-code,2026-03,misreport,pretended,1,1
+anthropics/claude-code,2026-03,safeguard_bypass,bypass the permission,113,113
+anthropics/claude-code,2026-03,safeguard_bypass,bypassed,83,83
+anthropics/claude-code,2026-03,safeguard_bypass,bypassing,85,85
+anthropics/claude-code,2026-03,safeguard_bypass,circumvent,19,19
+anthropics/claude-code,2026-03,safeguard_bypass,deny rule,73,73
+anthropics/claude-code,2026-03,safeguard_bypass,without approval,105,105
+anthropics/claude-code,2026-03,safeguard_bypass,without asking,99,99
+anthropics/claude-code,2026-03,safeguard_bypass,without permission,211,211
+anthropics/claude-code,2026-04,destructive,deleted all,76,76
+anthropics/claude-code,2026-04,destructive,deleted files,79,79
+anthropics/claude-code,2026-04,destructive,deleted my,18,18
+anthropics/claude-code,2026-04,destructive,drop table,7,7
+anthropics/claude-code,2026-04,destructive,dropped the,218,218
+anthropics/claude-code,2026-04,destructive,force push,35,35
+anthropics/claude-code,2026-04,destructive,git reset --hard,28,28
+anthropics/claude-code,2026-04,destructive,push --force,34,34
+anthropics/claude-code,2026-04,destructive,rm -rf,125,125
+anthropics/claude-code,2026-04,destructive,wiped,85,85
+anthropics/claude-code,2026-04,ignored_instruction,despite being told,6,6
+anthropics/claude-code,2026-04,ignored_instruction,explicitly told,30,30
+anthropics/claude-code,2026-04,ignored_instruction,ignored my instructions,64,64
+anthropics/claude-code,2026-04,ignored_instruction,ignored the instruction,21,21
+anthropics/claude-code,2026-04,ignored_instruction,ignores instructions,61,61
+anthropics/claude-code,2026-04,ignored_instruction,ignoring instructions,28,28
+anthropics/claude-code,2026-04,ignored_instruction,told it not to,17,17
+anthropics/claude-code,2026-04,misreport,claimed it,30,30
+anthropics/claude-code,2026-04,misreport,fabricated,70,70
+anthropics/claude-code,2026-04,misreport,faked,2,2
+anthropics/claude-code,2026-04,misreport,falsely claimed,4,4
+anthropics/claude-code,2026-04,misreport,lied,12,12
+anthropics/claude-code,2026-04,misreport,lying,22,22
+anthropics/claude-code,2026-04,misreport,pretended,2,2
+anthropics/claude-code,2026-04,safeguard_bypass,bypass the permission,96,96
+anthropics/claude-code,2026-04,safeguard_bypass,bypassed,118,118
+anthropics/claude-code,2026-04,safeguard_bypass,bypassing,85,85
+anthropics/claude-code,2026-04,safeguard_bypass,circumvent,11,11
+anthropics/claude-code,2026-04,safeguard_bypass,deny rule,83,83
+anthropics/claude-code,2026-04,safeguard_bypass,without approval,97,97
+anthropics/claude-code,2026-04,safeguard_bypass,without asking,117,117
+anthropics/claude-code,2026-04,safeguard_bypass,without permission,197,197
+anthropics/claude-code,2026-05,destructive,deleted all,35,35
+anthropics/claude-code,2026-05,destructive,deleted files,37,37
+anthropics/claude-code,2026-05,destructive,deleted my,12,12
+anthropics/claude-code,2026-05,destructive,drop table,4,4
+anthropics/claude-code,2026-05,destructive,dropped the,209,209
+anthropics/claude-code,2026-05,destructive,force push,22,22
+anthropics/claude-code,2026-05,destructive,git reset --hard,15,15
+anthropics/claude-code,2026-05,destructive,push --force,22,22
+anthropics/claude-code,2026-05,destructive,rm -rf,81,81
+anthropics/claude-code,2026-05,destructive,wiped,53,53
+anthropics/claude-code,2026-05,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2026-05,ignored_instruction,explicitly told,18,18
+anthropics/claude-code,2026-05,ignored_instruction,ignored my instructions,46,46
+anthropics/claude-code,2026-05,ignored_instruction,ignored the instruction,13,13
+anthropics/claude-code,2026-05,ignored_instruction,ignores instructions,23,23
+anthropics/claude-code,2026-05,ignored_instruction,ignoring instructions,12,12
+anthropics/claude-code,2026-05,ignored_instruction,told it not to,9,9
+anthropics/claude-code,2026-05,misreport,claimed it,25,25
+anthropics/claude-code,2026-05,misreport,fabricated,83,83
+anthropics/claude-code,2026-05,misreport,faked,1,1
+anthropics/claude-code,2026-05,misreport,falsely claimed,1,1
+anthropics/claude-code,2026-05,misreport,lied,19,19
+anthropics/claude-code,2026-05,misreport,lying,22,22
+anthropics/claude-code,2026-05,safeguard_bypass,bypass the permission,67,67
+anthropics/claude-code,2026-05,safeguard_bypass,bypassed,76,76
+anthropics/claude-code,2026-05,safeguard_bypass,bypassing,70,70
+anthropics/claude-code,2026-05,safeguard_bypass,circumvent,8,8
+anthropics/claude-code,2026-05,safeguard_bypass,deny rule,60,60
+anthropics/claude-code,2026-05,safeguard_bypass,without approval,60,60
+anthropics/claude-code,2026-05,safeguard_bypass,without asking,83,83
+anthropics/claude-code,2026-05,safeguard_bypass,without permission,129,129
+anthropics/claude-code,2026-06,destructive,deleted all,19,19
+anthropics/claude-code,2026-06,destructive,deleted files,29,29
+anthropics/claude-code,2026-06,destructive,deleted my,9,9
+anthropics/claude-code,2026-06,destructive,drop table,4,4
+anthropics/claude-code,2026-06,destructive,dropped the,218,218
+anthropics/claude-code,2026-06,destructive,force push,21,21
+anthropics/claude-code,2026-06,destructive,git reset --hard,14,14
+anthropics/claude-code,2026-06,destructive,push --force,20,20
+anthropics/claude-code,2026-06,destructive,rm -rf,50,50
+anthropics/claude-code,2026-06,destructive,wiped,35,35
+anthropics/claude-code,2026-06,ignored_instruction,against my instructions,2,2
+anthropics/claude-code,2026-06,ignored_instruction,despite being told,2,2
+anthropics/claude-code,2026-06,ignored_instruction,explicitly told,25,25
+anthropics/claude-code,2026-06,ignored_instruction,ignored my instructions,23,23
+anthropics/claude-code,2026-06,ignored_instruction,ignored the instruction,22,22
+anthropics/claude-code,2026-06,ignored_instruction,ignores instructions,37,37
+anthropics/claude-code,2026-06,ignored_instruction,ignoring instructions,14,14
+anthropics/claude-code,2026-06,ignored_instruction,told it not to,6,6
+anthropics/claude-code,2026-06,misreport,claimed it,30,30
+anthropics/claude-code,2026-06,misreport,fabricated,93,93
+anthropics/claude-code,2026-06,misreport,faked,2,2
+anthropics/claude-code,2026-06,misreport,falsely claimed,1,1
+anthropics/claude-code,2026-06,misreport,lied,6,6
+anthropics/claude-code,2026-06,misreport,lying,11,11
+anthropics/claude-code,2026-06,misreport,pretended,1,1
+anthropics/claude-code,2026-06,safeguard_bypass,bypass the permission,23,23
+anthropics/claude-code,2026-06,safeguard_bypass,bypassed,31,31
+anthropics/claude-code,2026-06,safeguard_bypass,bypassing,43,43
+anthropics/claude-code,2026-06,safeguard_bypass,circumvent,20,20
+anthropics/claude-code,2026-06,safeguard_bypass,deny rule,48,48
+anthropics/claude-code,2026-06,safeguard_bypass,without approval,44,44
+anthropics/claude-code,2026-06,safeguard_bypass,without asking,47,47
+anthropics/claude-code,2026-06,safeguard_bypass,without permission,66,66
+anthropics/claude-code,2026-07,destructive,deleted all,28,28
+anthropics/claude-code,2026-07,destructive,deleted files,42,42
+anthropics/claude-code,2026-07,destructive,deleted my,96,96
+anthropics/claude-code,2026-07,destructive,drop table,2,2
+anthropics/claude-code,2026-07,destructive,dropped the,361,361
+anthropics/claude-code,2026-07,destructive,force push,27,27
+anthropics/claude-code,2026-07,destructive,git reset --hard,24,24
+anthropics/claude-code,2026-07,destructive,push --force,28,28
+anthropics/claude-code,2026-07,destructive,rm -rf,62,62
+anthropics/claude-code,2026-07,destructive,wiped,50,50
+anthropics/claude-code,2026-07,ignored_instruction,against my instructions,2,2
+anthropics/claude-code,2026-07,ignored_instruction,explicitly told,22,22
+anthropics/claude-code,2026-07,ignored_instruction,ignored my instructions,24,24
+anthropics/claude-code,2026-07,ignored_instruction,ignored the instruction,9,9
+anthropics/claude-code,2026-07,ignored_instruction,ignores instructions,21,21
+anthropics/claude-code,2026-07,ignored_instruction,ignoring instructions,9,9
+anthropics/claude-code,2026-07,ignored_instruction,told it not to,11,11
+anthropics/claude-code,2026-07,misreport,claimed it,46,46
+anthropics/claude-code,2026-07,misreport,fabricated,148,148
+anthropics/claude-code,2026-07,misreport,falsely claimed,2,2
+anthropics/claude-code,2026-07,misreport,lied,7,7
+anthropics/claude-code,2026-07,misreport,lying,21,21
+anthropics/claude-code,2026-07,misreport,pretended,2,2
+anthropics/claude-code,2026-07,safeguard_bypass,bypass the permission,51,51
+anthropics/claude-code,2026-07,safeguard_bypass,bypassed,57,57
+anthropics/claude-code,2026-07,safeguard_bypass,bypassing,61,61
+anthropics/claude-code,2026-07,safeguard_bypass,circumvent,15,15
+anthropics/claude-code,2026-07,safeguard_bypass,deny rule,104,104
+anthropics/claude-code,2026-07,safeguard_bypass,without approval,62,62
+anthropics/claude-code,2026-07,safeguard_bypass,without asking,67,67
+anthropics/claude-code,2026-07,safeguard_bypass,without permission,92,92
+anthropics/claude-code,2026-08,destructive,deleted all,28,28
+anthropics/claude-code,2026-08,destructive,deleted files,34,34
+anthropics/claude-code,2026-08,destructive,deleted my,16,16
+anthropics/claude-code,2026-08,destructive,drop table,5,5
+anthropics/claude-code,2026-08,destructive,dropped the,339,339
+anthropics/claude-code,2026-08,destructive,force push,25,25
+anthropics/claude-code,2026-08,destructive,git reset --hard,15,15
+anthropics/claude-code,2026-08,destructive,push --force,23,23
+anthropics/claude-code,2026-08,destructive,rm -rf,70,70
+anthropics/claude-code,2026-08,destructive,wiped,45,45
+anthropics/claude-code,2026-08,ignored_instruction,against my instructions,1,1
+anthropics/claude-code,2026-08,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2026-08,ignored_instruction,explicitly told,22,22
+anthropics/claude-code,2026-08,ignored_instruction,ignored my instructions,40,40
+anthropics/claude-code,2026-08,ignored_instruction,ignored the instruction,10,10
+anthropics/claude-code,2026-08,ignored_instruction,ignores instructions,14,14
+anthropics/claude-code,2026-08,ignored_instruction,ignoring instructions,6,6
+anthropics/claude-code,2026-08,ignored_instruction,told it not to,11,11
+anthropics/claude-code,2026-08,misreport,claimed it,33,33
+anthropics/claude-code,2026-08,misreport,fabricated,105,105
+anthropics/claude-code,2026-08,misreport,faked,2,2
+anthropics/claude-code,2026-08,misreport,falsely claimed,2,2
+anthropics/claude-code,2026-08,misreport,lied,9,9
+anthropics/claude-code,2026-08,misreport,lying,11,11
+anthropics/claude-code,2026-08,safeguard_bypass,bypass the permission,46,46
+anthropics/claude-code,2026-08,safeguard_bypass,bypassed,51,51
+anthropics/claude-code,2026-08,safeguard_bypass,bypassing,63,63
+anthropics/claude-code,2026-08,safeguard_bypass,circumvent,7,7
+anthropics/claude-code,2026-08,safeguard_bypass,deny rule,85,85
+anthropics/claude-code,2026-08,safeguard_bypass,without approval,33,33
+anthropics/claude-code,2026-08,safeguard_bypass,without asking,74,74
+anthropics/claude-code,2026-08,safeguard_bypass,without permission,72,72
+anthropics/claude-code,2026-09,destructive,deleted all,23,23
+anthropics/claude-code,2026-09,destructive,deleted files,41,41
+anthropics/claude-code,2026-09,destructive,deleted my,17,17
+anthropics/claude-code,2026-09,destructive,dropped the,217,217
+anthropics/claude-code,2026-09,destructive,force push,19,19
+anthropics/claude-code,2026-09,destructive,git reset --hard,10,10
+anthropics/claude-code,2026-09,destructive,push --force,19,19
+anthropics/claude-code,2026-09,destructive,rm -rf,43,43
+anthropics/claude-code,2026-09,destructive,wiped,25,25
+anthropics/claude-code,2026-09,ignored_instruction,against my instructions,2,2
+anthropics/claude-code,2026-09,ignored_instruction,despite being told,1,1
+anthropics/claude-code,2026-09,ignored_instruction,explicitly told,26,26
+anthropics/claude-code,2026-09,ignored_instruction,ignored my instructions,27,27
+anthropics/claude-code,2026-09,ignored_instruction,ignored the instruction,10,10
+anthropics/claude-code,2026-09,ignored_instruction,ignores instructions,23,23
+anthropics/claude-code,2026-09,ignored_instruction,ignoring instructions,8,8
+anthropics/claude-code,2026-09,ignored_instruction,told it not to,17,17
+anthropics/claude-code,2026-09,misreport,claimed it,20,20
+anthropics/claude-code,2026-09,misreport,fabricated,50,50
+anthropics/claude-code,2026-09,misreport,faked,2,2
+anthropics/claude-code,2026-09,misreport,lied,11,11
+anthropics/claude-code,2026-09,misreport,lying,12,12
+anthropics/claude-code,2026-09,safeguard_bypass,bypass the permission,52,52
+anthropics/claude-code,2026-09,safeguard_bypass,bypassed,44,44
+anthropics/claude-code,2026-09,safeguard_bypass,bypassing,42,42
+anthropics/claude-code,2026-09,safeguard_bypass,circumvent,6,6
+anthropics/claude-code,2026-09,safeguard_bypass,deny rule,109,109
+anthropics/claude-code,2026-09,safeguard_bypass,without approval,39,39
+anthropics/claude-code,2026-09,safeguard_bypass,without asking,75,75
+anthropics/claude-code,2026-09,safeguard_bypass,without permission,73,73
+google-gemini/gemini-cli,2025-05,safeguard_bypass,without approval,2,2
+google-gemini/gemini-cli,2025-06,destructive,deleted all,1,1
+google-gemini/gemini-cli,2025-06,destructive,deleted files,3,3
+google-gemini/gemini-cli,2025-06,destructive,deleted my,4,4
+google-gemini/gemini-cli,2025-06,destructive,dropped the,1,1
+google-gemini/gemini-cli,2025-06,destructive,force push,2,2
+google-gemini/gemini-cli,2025-06,destructive,git reset --hard,1,1
+google-gemini/gemini-cli,2025-06,destructive,push --force,2,2
+google-gemini/gemini-cli,2025-06,destructive,rm -rf,2,2
+google-gemini/gemini-cli,2025-06,ignored_instruction,ignores instructions,1,1
+google-gemini/gemini-cli,2025-06,ignored_instruction,ignoring instructions,1,1
+google-gemini/gemini-cli,2025-06,misreport,claimed it,1,1
+google-gemini/gemini-cli,2025-06,misreport,faked,1,1
+google-gemini/gemini-cli,2025-06,safeguard_bypass,bypassing,1,1
+google-gemini/gemini-cli,2025-06,safeguard_bypass,without approval,1,1
+google-gemini/gemini-cli,2025-06,safeguard_bypass,without asking,3,3
+google-gemini/gemini-cli,2025-06,safeguard_bypass,without permission,3,3
+google-gemini/gemini-cli,2025-07,destructive,deleted files,4,4
+google-gemini/gemini-cli,2025-07,destructive,deleted my,2,2
+google-gemini/gemini-cli,2025-07,destructive,dropped the,6,6
+google-gemini/gemini-cli,2025-07,destructive,force push,1,1
+google-gemini/gemini-cli,2025-07,destructive,push --force,1,1
+google-gemini/gemini-cli,2025-07,destructive,rm -rf,4,4
+google-gemini/gemini-cli,2025-07,destructive,wiped,3,3
+google-gemini/gemini-cli,2025-07,ignored_instruction,explicitly told,2,2
+google-gemini/gemini-cli,2025-07,ignored_instruction,ignores instructions,1,1
+google-gemini/gemini-cli,2025-07,ignored_instruction,told it not to,3,3
+google-gemini/gemini-cli,2025-07,misreport,claimed it,2,2
+google-gemini/gemini-cli,2025-07,misreport,lying,1,1
+google-gemini/gemini-cli,2025-07,safeguard_bypass,bypassing,1,1
+google-gemini/gemini-cli,2025-07,safeguard_bypass,without approval,2,2
+google-gemini/gemini-cli,2025-07,safeguard_bypass,without asking,5,5
+google-gemini/gemini-cli,2025-07,safeguard_bypass,without permission,7,7
+google-gemini/gemini-cli,2025-08,destructive,deleted all,3,3
+google-gemini/gemini-cli,2025-08,destructive,deleted files,3,3
+google-gemini/gemini-cli,2025-08,destructive,deleted my,4,4
+google-gemini/gemini-cli,2025-08,destructive,dropped the,1,1
+google-gemini/gemini-cli,2025-08,destructive,force push,3,3
+google-gemini/gemini-cli,2025-08,destructive,git reset --hard,1,1
+google-gemini/gemini-cli,2025-08,destructive,push --force,3,3
+google-gemini/gemini-cli,2025-08,destructive,rm -rf,2,2
+google-gemini/gemini-cli,2025-08,ignored_instruction,explicitly told,1,1
+google-gemini/gemini-cli,2025-08,ignored_instruction,ignores instructions,3,3
+google-gemini/gemini-cli,2025-08,ignored_instruction,ignoring instructions,1,1
+google-gemini/gemini-cli,2025-08,ignored_instruction,told it not to,1,1
+google-gemini/gemini-cli,2025-08,misreport,claimed it,1,1
+google-gemini/gemini-cli,2025-08,misreport,fabricated,1,1
+google-gemini/gemini-cli,2025-08,misreport,lied,1,1
+google-gemini/gemini-cli,2025-08,misreport,lying,2,2
+google-gemini/gemini-cli,2025-08,safeguard_bypass,bypassing,2,2
+google-gemini/gemini-cli,2025-08,safeguard_bypass,without approval,4,4
+google-gemini/gemini-cli,2025-08,safeguard_bypass,without permission,2,2
+google-gemini/gemini-cli,2025-09,destructive,deleted my,2,2
+google-gemini/gemini-cli,2025-09,destructive,dropped the,4,4
+google-gemini/gemini-cli,2025-09,destructive,force push,1,1
+google-gemini/gemini-cli,2025-09,destructive,push --force,1,1
+google-gemini/gemini-cli,2025-09,destructive,rm -rf,2,2
+google-gemini/gemini-cli,2025-09,destructive,wiped,1,1
+google-gemini/gemini-cli,2025-09,ignored_instruction,explicitly told,1,1
+google-gemini/gemini-cli,2025-09,ignored_instruction,ignored the instruction,1,1
+google-gemini/gemini-cli,2025-09,ignored_instruction,told it not to,2,2
+google-gemini/gemini-cli,2025-09,misreport,lying,1,1
+google-gemini/gemini-cli,2025-09,safeguard_bypass,bypassing,3,3
+google-gemini/gemini-cli,2025-09,safeguard_bypass,without approval,3,3
+google-gemini/gemini-cli,2025-09,safeguard_bypass,without asking,3,3
+google-gemini/gemini-cli,2025-09,safeguard_bypass,without permission,2,2
+google-gemini/gemini-cli,2025-10,destructive,deleted all,1,1
+google-gemini/gemini-cli,2025-10,destructive,deleted files,1,1
+google-gemini/gemini-cli,2025-10,destructive,deleted my,1,1
+google-gemini/gemini-cli,2025-10,destructive,dropped the,1,1
+google-gemini/gemini-cli,2025-10,destructive,git reset --hard,1,1
+google-gemini/gemini-cli,2025-10,destructive,rm -rf,4,4
+google-gemini/gemini-cli,2025-10,ignored_instruction,explicitly told,1,1
+google-gemini/gemini-cli,2025-10,ignored_instruction,ignores instructions,1,1
+google-gemini/gemini-cli,2025-10,ignored_instruction,ignoring instructions,1,1
+google-gemini/gemini-cli,2025-10,misreport,claimed it,1,1
+google-gemini/gemini-cli,2025-10,misreport,lied,1,1
+google-gemini/gemini-cli,2025-10,safeguard_bypass,bypassed,1,1
+google-gemini/gemini-cli,2025-10,safeguard_bypass,bypassing,5,5
+google-gemini/gemini-cli,2025-10,safeguard_bypass,circumvent,1,1
+google-gemini/gemini-cli,2025-10,safeguard_bypass,without approval,1,1
+google-gemini/gemini-cli,2025-10,safeguard_bypass,without asking,2,2
+google-gemini/gemini-cli,2025-10,safeguard_bypass,without permission,5,5
+google-gemini/gemini-cli,2025-11,destructive,deleted all,3,3
+google-gemini/gemini-cli,2025-11,destructive,deleted files,3,3
+google-gemini/gemini-cli,2025-11,destructive,deleted my,7,7
+google-gemini/gemini-cli,2025-11,destructive,dropped the,1,1
+google-gemini/gemini-cli,2025-11,destructive,git reset --hard,1,1
+google-gemini/gemini-cli,2025-11,destructive,wiped,1,1
+google-gemini/gemini-cli,2025-11,ignored_instruction,explicitly told,2,2
+google-gemini/gemini-cli,2025-11,ignored_instruction,ignored the instruction,1,1
+google-gemini/gemini-cli,2025-11,ignored_instruction,ignores instructions,3,3
+google-gemini/gemini-cli,2025-11,ignored_instruction,ignoring instructions,2,2
+google-gemini/gemini-cli,2025-11,ignored_instruction,told it not to,2,2
+google-gemini/gemini-cli,2025-11,misreport,claimed it,1,1
+google-gemini/gemini-cli,2025-11,misreport,lied,1,1
+google-gemini/gemini-cli,2025-11,safeguard_bypass,bypass the permission,1,1
+google-gemini/gemini-cli,2025-11,safeguard_bypass,bypassed,2,2
+google-gemini/gemini-cli,2025-11,safeguard_bypass,bypassing,4,4
+google-gemini/gemini-cli,2025-11,safeguard_bypass,without approval,1,1
+google-gemini/gemini-cli,2025-11,safeguard_bypass,without asking,2,2
+google-gemini/gemini-cli,2025-11,safeguard_bypass,without permission,3,3
+google-gemini/gemini-cli,2025-12,destructive,deleted all,1,1
+google-gemini/gemini-cli,2025-12,destructive,deleted files,1,1
+google-gemini/gemini-cli,2025-12,destructive,dropped the,1,1
+google-gemini/gemini-cli,2025-12,destructive,git reset --hard,2,2
+google-gemini/gemini-cli,2025-12,destructive,rm -rf,7,7
+google-gemini/gemini-cli,2025-12,destructive,wiped,2,2
+google-gemini/gemini-cli,2025-12,ignored_instruction,explicitly told,1,1
+google-gemini/gemini-cli,2025-12,ignored_instruction,ignored the instruction,1,1
+google-gemini/gemini-cli,2025-12,ignored_instruction,ignores instructions,1,1
+google-gemini/gemini-cli,2025-12,ignored_instruction,ignoring instructions,1,1
+google-gemini/gemini-cli,2025-12,misreport,claimed it,1,1
+google-gemini/gemini-cli,2025-12,safeguard_bypass,bypassing,4,4
+google-gemini/gemini-cli,2025-12,safeguard_bypass,deny rule,1,1
+google-gemini/gemini-cli,2025-12,safeguard_bypass,without approval,4,4
+google-gemini/gemini-cli,2025-12,safeguard_bypass,without asking,2,2
+google-gemini/gemini-cli,2025-12,safeguard_bypass,without permission,4,4
+google-gemini/gemini-cli,2026-01,destructive,deleted all,1,1
+google-gemini/gemini-cli,2026-01,destructive,deleted files,4,4
+google-gemini/gemini-cli,2026-01,destructive,deleted my,2,2
+google-gemini/gemini-cli,2026-01,destructive,force push,1,1
+google-gemini/gemini-cli,2026-01,destructive,push --force,1,1
+google-gemini/gemini-cli,2026-01,destructive,rm -rf,3,3
+google-gemini/gemini-cli,2026-01,destructive,wiped,2,2
+google-gemini/gemini-cli,2026-01,ignored_instruction,explicitly told,2,2
+google-gemini/gemini-cli,2026-01,ignored_instruction,ignores instructions,2,2
+google-gemini/gemini-cli,2026-01,ignored_instruction,ignoring instructions,1,1
+google-gemini/gemini-cli,2026-01,misreport,claimed it,1,1
+google-gemini/gemini-cli,2026-01,misreport,fabricated,1,1
+google-gemini/gemini-cli,2026-01,misreport,lying,1,1
+google-gemini/gemini-cli,2026-01,safeguard_bypass,bypassed,1,1
+google-gemini/gemini-cli,2026-01,safeguard_bypass,bypassing,2,2
+google-gemini/gemini-cli,2026-01,safeguard_bypass,deny rule,3,3
+google-gemini/gemini-cli,2026-01,safeguard_bypass,without approval,7,7
+google-gemini/gemini-cli,2026-01,safeguard_bypass,without asking,4,4
+google-gemini/gemini-cli,2026-01,safeguard_bypass,without permission,6,6
+google-gemini/gemini-cli,2026-02,destructive,deleted all,2,2
+google-gemini/gemini-cli,2026-02,destructive,deleted files,1,1
+google-gemini/gemini-cli,2026-02,destructive,deleted my,3,3
+google-gemini/gemini-cli,2026-02,destructive,dropped the,3,3
+google-gemini/gemini-cli,2026-02,destructive,rm -rf,6,6
+google-gemini/gemini-cli,2026-02,destructive,wiped,1,1
+google-gemini/gemini-cli,2026-02,ignored_instruction,despite being told,1,1
+google-gemini/gemini-cli,2026-02,ignored_instruction,explicitly told,2,2
+google-gemini/gemini-cli,2026-02,ignored_instruction,ignored my instructions,1,1
+google-gemini/gemini-cli,2026-02,ignored_instruction,ignores instructions,3,3
+google-gemini/gemini-cli,2026-02,misreport,claimed it,1,1
+google-gemini/gemini-cli,2026-02,misreport,fabricated,2,2
+google-gemini/gemini-cli,2026-02,misreport,falsely claimed,1,1
+google-gemini/gemini-cli,2026-02,misreport,lying,1,1
+google-gemini/gemini-cli,2026-02,safeguard_bypass,bypassed,4,4
+google-gemini/gemini-cli,2026-02,safeguard_bypass,bypassing,8,8
+google-gemini/gemini-cli,2026-02,safeguard_bypass,deny rule,5,5
+google-gemini/gemini-cli,2026-02,safeguard_bypass,without approval,2,2
+google-gemini/gemini-cli,2026-02,safeguard_bypass,without asking,2,2
+google-gemini/gemini-cli,2026-02,safeguard_bypass,without permission,2,2
+google-gemini/gemini-cli,2026-03,destructive,deleted all,2,2
+google-gemini/gemini-cli,2026-03,destructive,deleted files,1,1
+google-gemini/gemini-cli,2026-03,destructive,dropped the,10,10
+google-gemini/gemini-cli,2026-03,destructive,force push,1,1
+google-gemini/gemini-cli,2026-03,destructive,git reset --hard,2,2
+google-gemini/gemini-cli,2026-03,destructive,push --force,1,1
+google-gemini/gemini-cli,2026-03,destructive,rm -rf,4,4
+google-gemini/gemini-cli,2026-03,destructive,wiped,3,3
+google-gemini/gemini-cli,2026-03,ignored_instruction,ignored the instruction,1,1
+google-gemini/gemini-cli,2026-03,ignored_instruction,ignores instructions,2,2
+google-gemini/gemini-cli,2026-03,ignored_instruction,told it not to,3,3
+google-gemini/gemini-cli,2026-03,safeguard_bypass,bypassed,3,3
+google-gemini/gemini-cli,2026-03,safeguard_bypass,bypassing,14,14
+google-gemini/gemini-cli,2026-03,safeguard_bypass,circumvent,2,2
+google-gemini/gemini-cli,2026-03,safeguard_bypass,deny rule,3,3
+google-gemini/gemini-cli,2026-03,safeguard_bypass,without approval,3,3
+google-gemini/gemini-cli,2026-03,safeguard_bypass,without asking,5,5
+google-gemini/gemini-cli,2026-03,safeguard_bypass,without permission,3,3
+google-gemini/gemini-cli,2026-04,destructive,deleted all,2,2
+google-gemini/gemini-cli,2026-04,destructive,deleted files,2,2
+google-gemini/gemini-cli,2026-04,destructive,deleted my,1,1
+google-gemini/gemini-cli,2026-04,destructive,dropped the,5,5
+google-gemini/gemini-cli,2026-04,destructive,force push,1,1
+google-gemini/gemini-cli,2026-04,destructive,git reset --hard,3,3
+google-gemini/gemini-cli,2026-04,destructive,push --force,1,1
+google-gemini/gemini-cli,2026-04,destructive,rm -rf,5,5
+google-gemini/gemini-cli,2026-04,destructive,wiped,2,2
+google-gemini/gemini-cli,2026-04,ignored_instruction,explicitly told,1,1
+google-gemini/gemini-cli,2026-04,ignored_instruction,ignoring instructions,2,2
+google-gemini/gemini-cli,2026-04,misreport,claimed it,1,1
+google-gemini/gemini-cli,2026-04,misreport,lying,1,1
+google-gemini/gemini-cli,2026-04,safeguard_bypass,bypass the permission,1,1
+google-gemini/gemini-cli,2026-04,safeguard_bypass,bypassed,5,5
+google-gemini/gemini-cli,2026-04,safeguard_bypass,bypassing,3,3
+google-gemini/gemini-cli,2026-04,safeguard_bypass,deny rule,3,3
+google-gemini/gemini-cli,2026-04,safeguard_bypass,without approval,5,5
+google-gemini/gemini-cli,2026-04,safeguard_bypass,without asking,2,2
+google-gemini/gemini-cli,2026-04,safeguard_bypass,without permission,9,9
+google-gemini/gemini-cli,2026-05,destructive,deleted all,2,2
+google-gemini/gemini-cli,2026-05,destructive,deleted files,5,5
+google-gemini/gemini-cli,2026-05,destructive,deleted my,2,2
+google-gemini/gemini-cli,2026-05,destructive,dropped the,1,1
+google-gemini/gemini-cli,2026-05,destructive,rm -rf,2,2
+google-gemini/gemini-cli,2026-05,destructive,wiped,1,1
+google-gemini/gemini-cli,2026-05,ignored_instruction,ignoring instructions,1,1
+google-gemini/gemini-cli,2026-05,ignored_instruction,told it not to,1,1
+google-gemini/gemini-cli,2026-05,misreport,claimed it,1,1
+google-gemini/gemini-cli,2026-05,misreport,fabricated,2,2
+google-gemini/gemini-cli,2026-05,misreport,falsely claimed,1,1
+google-gemini/gemini-cli,2026-05,misreport,lied,2,2
+google-gemini/gemini-cli,2026-05,misreport,lying,2,2
+google-gemini/gemini-cli,2026-05,safeguard_bypass,bypassed,6,6
+google-gemini/gemini-cli,2026-05,safeguard_bypass,bypassing,8,8
+google-gemini/gemini-cli,2026-05,safeguard_bypass,without approval,2,2
+google-gemini/gemini-cli,2026-05,safeguard_bypass,without asking,2,2
+google-gemini/gemini-cli,2026-05,safeguard_bypass,without permission,5,5
+google-gemini/gemini-cli,2026-06,destructive,deleted all,1,1
+google-gemini/gemini-cli,2026-06,destructive,dropped the,4,4
+google-gemini/gemini-cli,2026-06,ignored_instruction,ignored the instruction,1,1
+google-gemini/gemini-cli,2026-06,misreport,claimed it,1,1
+google-gemini/gemini-cli,2026-06,misreport,fabricated,1,1
+google-gemini/gemini-cli,2026-06,misreport,lied,1,1
+google-gemini/gemini-cli,2026-06,safeguard_bypass,bypassed,3,3
+google-gemini/gemini-cli,2026-06,safeguard_bypass,circumvent,1,1
+google-gemini/gemini-cli,2026-06,safeguard_bypass,without approval,1,1
+google-gemini/gemini-cli,2026-06,safeguard_bypass,without asking,1,1
+google-gemini/gemini-cli,2026-07,destructive,dropped the,3,3
+google-gemini/gemini-cli,2026-07,destructive,rm -rf,1,1
+google-gemini/gemini-cli,2026-07,misreport,fabricated,1,1
+google-gemini/gemini-cli,2026-07,safeguard_bypass,bypassing,2,2
+google-gemini/gemini-cli,2026-07,safeguard_bypass,deny rule,2,2
+google-gemini/gemini-cli,2026-08,destructive,deleted files,1,1
+google-gemini/gemini-cli,2026-08,destructive,deleted my,1,1
+google-gemini/gemini-cli,2026-08,destructive,drop table,1,1
+google-gemini/gemini-cli,2026-08,destructive,dropped the,5,5
+google-gemini/gemini-cli,2026-08,destructive,rm -rf,1,1
+google-gemini/gemini-cli,2026-08,destructive,wiped,1,1
+google-gemini/gemini-cli,2026-08,safeguard_bypass,bypassing,2,2
+google-gemini/gemini-cli,2026-08,safeguard_bypass,deny rule,3,3
+google-gemini/gemini-cli,2026-09,destructive,dropped the,5,5
+google-gemini/gemini-cli,2026-09,destructive,rm -rf,1,1
+google-gemini/gemini-cli,2026-09,destructive,wiped,1,1
+google-gemini/gemini-cli,2026-09,misreport,fabricated,1,1
+google-gemini/gemini-cli,2026-09,safeguard_bypass,circumvent,1,1
+openai/codex,2025-04,destructive,deleted files,1,1
+openai/codex,2025-04,destructive,deleted my,1,1
+openai/codex,2025-04,destructive,rm -rf,1,1
+openai/codex,2025-04,ignored_instruction,despite being told,1,1
+openai/codex,2025-04,ignored_instruction,told it not to,1,1
+openai/codex,2025-05,destructive,deleted all,1,1
+openai/codex,2025-05,safeguard_bypass,without asking,1,1
+openai/codex,2025-06,destructive,force push,1,1
+openai/codex,2025-06,destructive,push --force,1,1
+openai/codex,2025-06,destructive,rm -rf,1,1
+openai/codex,2025-06,ignored_instruction,told it not to,1,1
+openai/codex,2025-06,safeguard_bypass,bypassed,1,1
+openai/codex,2025-06,safeguard_bypass,without approval,1,1
+openai/codex,2025-06,safeguard_bypass,without asking,2,2
+openai/codex,2025-06,safeguard_bypass,without permission,1,1
+openai/codex,2025-07,destructive,deleted files,1,1
+openai/codex,2025-07,destructive,dropped the,1,1
+openai/codex,2025-07,destructive,rm -rf,1,1
+openai/codex,2025-08,destructive,rm -rf,1,1
+openai/codex,2025-08,ignored_instruction,explicitly told,1,1
+openai/codex,2025-08,ignored_instruction,told it not to,1,1
+openai/codex,2025-08,safeguard_bypass,bypassed,1,1
+openai/codex,2025-08,safeguard_bypass,bypassing,1,1
+openai/codex,2025-08,safeguard_bypass,without approval,5,5
+openai/codex,2025-08,safeguard_bypass,without asking,3,3
+openai/codex,2025-08,safeguard_bypass,without permission,2,2
+openai/codex,2025-09,destructive,deleted all,2,2
+openai/codex,2025-09,destructive,deleted files,3,3
+openai/codex,2025-09,destructive,dropped the,5,5
+openai/codex,2025-09,destructive,git reset --hard,1,1
+openai/codex,2025-09,destructive,rm -rf,5,5
+openai/codex,2025-09,destructive,wiped,1,1
+openai/codex,2025-09,ignored_instruction,explicitly told,2,2
+openai/codex,2025-09,ignored_instruction,ignores instructions,1,1
+openai/codex,2025-09,misreport,faked,1,1
+openai/codex,2025-09,misreport,lying,2,2
+openai/codex,2025-09,safeguard_bypass,without approval,12,12
+openai/codex,2025-09,safeguard_bypass,without asking,3,3
+openai/codex,2025-09,safeguard_bypass,without permission,1,1
+openai/codex,2025-10,destructive,deleted all,3,3
+openai/codex,2025-10,destructive,deleted my,1,1
+openai/codex,2025-10,destructive,dropped the,2,2
+openai/codex,2025-10,destructive,force push,1,1
+openai/codex,2025-10,destructive,push --force,1,1
+openai/codex,2025-10,destructive,rm -rf,6,6
+openai/codex,2025-10,destructive,wiped,1,1
+openai/codex,2025-10,ignored_instruction,explicitly told,4,4
+openai/codex,2025-10,ignored_instruction,ignores instructions,1,1
+openai/codex,2025-10,ignored_instruction,told it not to,1,1
+openai/codex,2025-10,misreport,claimed it,1,1
+openai/codex,2025-10,misreport,fabricated,3,3
+openai/codex,2025-10,misreport,lying,1,1
+openai/codex,2025-10,safeguard_bypass,bypassed,1,1
+openai/codex,2025-10,safeguard_bypass,circumvent,2,2
+openai/codex,2025-10,safeguard_bypass,without approval,17,17
+openai/codex,2025-10,safeguard_bypass,without asking,3,3
+openai/codex,2025-10,safeguard_bypass,without permission,5,5
+openai/codex,2025-11,destructive,deleted all,3,3
+openai/codex,2025-11,destructive,deleted files,3,3
+openai/codex,2025-11,destructive,deleted my,2,2
+openai/codex,2025-11,destructive,dropped the,2,2
+openai/codex,2025-11,destructive,git reset --hard,1,1
+openai/codex,2025-11,destructive,rm -rf,4,4
+openai/codex,2025-11,destructive,wiped,1,1
+openai/codex,2025-11,ignored_instruction,ignores instructions,2,2
+openai/codex,2025-11,ignored_instruction,ignoring instructions,2,2
+openai/codex,2025-11,ignored_instruction,told it not to,1,1
+openai/codex,2025-11,misreport,claimed it,2,2
+openai/codex,2025-11,misreport,lied,1,1
+openai/codex,2025-11,misreport,lying,2,2
+openai/codex,2025-11,safeguard_bypass,bypass the permission,1,1
+openai/codex,2025-11,safeguard_bypass,bypassed,1,1
+openai/codex,2025-11,safeguard_bypass,bypassing,1,1
+openai/codex,2025-11,safeguard_bypass,without approval,11,11
+openai/codex,2025-11,safeguard_bypass,without asking,2,2
+openai/codex,2025-11,safeguard_bypass,without permission,1,1
+openai/codex,2025-12,destructive,deleted all,1,1
+openai/codex,2025-12,destructive,dropped the,1,1
+openai/codex,2025-12,destructive,git reset --hard,1,1
+openai/codex,2025-12,destructive,rm -rf,1,1
+openai/codex,2025-12,destructive,wiped,1,1
+openai/codex,2025-12,ignored_instruction,explicitly told,2,2
+openai/codex,2025-12,ignored_instruction,ignored the instruction,1,1
+openai/codex,2025-12,ignored_instruction,ignoring instructions,1,1
+openai/codex,2025-12,ignored_instruction,told it not to,2,2
+openai/codex,2025-12,misreport,claimed it,1,1
+openai/codex,2025-12,misreport,fabricated,1,1
+openai/codex,2025-12,misreport,lied,1,1
+openai/codex,2025-12,safeguard_bypass,bypassing,1,1
+openai/codex,2025-12,safeguard_bypass,without approval,5,5
+openai/codex,2025-12,safeguard_bypass,without asking,4,4
+openai/codex,2025-12,safeguard_bypass,without permission,3,3
+openai/codex,2026-01,destructive,deleted all,2,2
+openai/codex,2026-01,destructive,deleted my,3,3
+openai/codex,2026-01,destructive,dropped the,4,4
+openai/codex,2026-01,destructive,rm -rf,3,3
+openai/codex,2026-01,misreport,claimed it,1,1
+openai/codex,2026-01,safeguard_bypass,bypassed,1,1
+openai/codex,2026-01,safeguard_bypass,without approval,9,9
+openai/codex,2026-01,safeguard_bypass,without asking,3,3
+openai/codex,2026-01,safeguard_bypass,without permission,2,2
+openai/codex,2026-02,destructive,deleted all,1,1
+openai/codex,2026-02,destructive,deleted files,1,1
+openai/codex,2026-02,destructive,deleted my,2,2
+openai/codex,2026-02,destructive,drop table,1,1
+openai/codex,2026-02,destructive,dropped the,7,7
+openai/codex,2026-02,destructive,force push,2,2
+openai/codex,2026-02,destructive,push --force,2,2
+openai/codex,2026-02,destructive,rm -rf,4,4
+openai/codex,2026-02,destructive,wiped,1,1
+openai/codex,2026-02,ignored_instruction,explicitly told,1,1
+openai/codex,2026-02,ignored_instruction,ignores instructions,2,2
+openai/codex,2026-02,safeguard_bypass,bypass the permission,1,1
+openai/codex,2026-02,safeguard_bypass,bypassed,1,1
+openai/codex,2026-02,safeguard_bypass,bypassing,2,2
+openai/codex,2026-02,safeguard_bypass,circumvent,1,1
+openai/codex,2026-02,safeguard_bypass,deny rule,4,4
+openai/codex,2026-02,safeguard_bypass,without approval,8,8
+openai/codex,2026-02,safeguard_bypass,without asking,4,4
+openai/codex,2026-02,safeguard_bypass,without permission,1,1
+openai/codex,2026-03,destructive,deleted files,2,2
+openai/codex,2026-03,destructive,deleted my,2,2
+openai/codex,2026-03,destructive,dropped the,16,16
+openai/codex,2026-03,destructive,force push,1,1
+openai/codex,2026-03,destructive,git reset --hard,2,2
+openai/codex,2026-03,destructive,push --force,1,1
+openai/codex,2026-03,destructive,rm -rf,2,2
+openai/codex,2026-03,ignored_instruction,explicitly told,1,1
+openai/codex,2026-03,ignored_instruction,ignored the instruction,1,1
+openai/codex,2026-03,ignored_instruction,ignores instructions,5,5
+openai/codex,2026-03,ignored_instruction,told it not to,1,1
+openai/codex,2026-03,misreport,claimed it,2,2
+openai/codex,2026-03,misreport,fabricated,1,1
+openai/codex,2026-03,misreport,lying,1,1
+openai/codex,2026-03,safeguard_bypass,bypassed,5,5
+openai/codex,2026-03,safeguard_bypass,bypassing,2,2
+openai/codex,2026-03,safeguard_bypass,deny rule,3,3
+openai/codex,2026-03,safeguard_bypass,without approval,13,13
+openai/codex,2026-03,safeguard_bypass,without asking,6,6
+openai/codex,2026-03,safeguard_bypass,without permission,7,7
+openai/codex,2026-04,destructive,deleted all,8,8
+openai/codex,2026-04,destructive,deleted files,10,10
+openai/codex,2026-04,destructive,deleted my,3,3
+openai/codex,2026-04,destructive,drop table,1,1
+openai/codex,2026-04,destructive,dropped the,25,25
+openai/codex,2026-04,destructive,rm -rf,9,9
+openai/codex,2026-04,destructive,wiped,5,5
+openai/codex,2026-04,ignored_instruction,explicitly told,2,2
+openai/codex,2026-04,ignored_instruction,ignores instructions,1,1
+openai/codex,2026-04,ignored_instruction,ignoring instructions,1,1
+openai/codex,2026-04,ignored_instruction,told it not to,1,1
+openai/codex,2026-04,misreport,claimed it,1,1
+openai/codex,2026-04,misreport,fabricated,1,1
+openai/codex,2026-04,safeguard_bypass,bypassed,5,5
+openai/codex,2026-04,safeguard_bypass,bypassing,8,8
+openai/codex,2026-04,safeguard_bypass,circumvent,1,1
+openai/codex,2026-04,safeguard_bypass,deny rule,2,2
+openai/codex,2026-04,safeguard_bypass,without approval,20,20
+openai/codex,2026-04,safeguard_bypass,without asking,13,13
+openai/codex,2026-04,safeguard_bypass,without permission,10,10
+openai/codex,2026-05,destructive,deleted all,4,4
+openai/codex,2026-05,destructive,deleted files,7,7
+openai/codex,2026-05,destructive,deleted my,2,2
+openai/codex,2026-05,destructive,drop table,1,1
+openai/codex,2026-05,destructive,dropped the,27,27
+openai/codex,2026-05,destructive,git reset --hard,3,3
+openai/codex,2026-05,destructive,rm -rf,10,10
+openai/codex,2026-05,destructive,wiped,4,4
+openai/codex,2026-05,ignored_instruction,explicitly told,2,2
+openai/codex,2026-05,ignored_instruction,ignored the instruction,1,1
+openai/codex,2026-05,ignored_instruction,ignores instructions,2,2
+openai/codex,2026-05,misreport,claimed it,5,5
+openai/codex,2026-05,misreport,lying,2,2
+openai/codex,2026-05,safeguard_bypass,bypass the permission,1,1
+openai/codex,2026-05,safeguard_bypass,bypassed,6,6
+openai/codex,2026-05,safeguard_bypass,bypassing,13,13
+openai/codex,2026-05,safeguard_bypass,circumvent,5,5
+openai/codex,2026-05,safeguard_bypass,deny rule,7,7
+openai/codex,2026-05,safeguard_bypass,without approval,29,29
+openai/codex,2026-05,safeguard_bypass,without asking,10,10
+openai/codex,2026-05,safeguard_bypass,without permission,16,16
+openai/codex,2026-06,destructive,deleted all,5,5
+openai/codex,2026-06,destructive,deleted files,17,17
+openai/codex,2026-06,destructive,deleted my,3,3
+openai/codex,2026-06,destructive,dropped the,49,49
+openai/codex,2026-06,destructive,git reset --hard,3,3
+openai/codex,2026-06,destructive,rm -rf,12,12
+openai/codex,2026-06,destructive,wiped,6,6
+openai/codex,2026-06,ignored_instruction,against my instructions,1,1
+openai/codex,2026-06,ignored_instruction,explicitly told,2,2
+openai/codex,2026-06,ignored_instruction,ignored the instruction,1,1
+openai/codex,2026-06,misreport,claimed it,1,1
+openai/codex,2026-06,misreport,fabricated,2,2
+openai/codex,2026-06,safeguard_bypass,bypass the permission,2,2
+openai/codex,2026-06,safeguard_bypass,bypassed,6,6
+openai/codex,2026-06,safeguard_bypass,bypassing,10,10
+openai/codex,2026-06,safeguard_bypass,circumvent,5,5
+openai/codex,2026-06,safeguard_bypass,deny rule,1,1
+openai/codex,2026-06,safeguard_bypass,without approval,15,15
+openai/codex,2026-06,safeguard_bypass,without asking,10,10
+openai/codex,2026-06,safeguard_bypass,without permission,16,16
+openai/codex,2026-07,destructive,deleted all,12,12
+openai/codex,2026-07,destructive,deleted files,26,26
+openai/codex,2026-07,destructive,deleted my,6,6
+openai/codex,2026-07,destructive,drop table,1,1
+openai/codex,2026-07,destructive,dropped the,69,69
+openai/codex,2026-07,destructive,force push,1,1
+openai/codex,2026-07,destructive,git reset --hard,1,1
+openai/codex,2026-07,destructive,push --force,1,1
+openai/codex,2026-07,destructive,rm -rf,20,20
+openai/codex,2026-07,destructive,wiped,3,3
+openai/codex,2026-07,ignored_instruction,explicitly told,2,2
+openai/codex,2026-07,ignored_instruction,ignored my instructions,1,1
+openai/codex,2026-07,ignored_instruction,ignored the instruction,2,2
+openai/codex,2026-07,ignored_instruction,ignores instructions,1,1
+openai/codex,2026-07,ignored_instruction,ignoring instructions,1,1
+openai/codex,2026-07,ignored_instruction,told it not to,1,1
+openai/codex,2026-07,misreport,claimed it,4,4
+openai/codex,2026-07,misreport,fabricated,4,4
+openai/codex,2026-07,safeguard_bypass,bypass the permission,1,1
+openai/codex,2026-07,safeguard_bypass,bypassed,16,16
+openai/codex,2026-07,safeguard_bypass,bypassing,25,25
+openai/codex,2026-07,safeguard_bypass,circumvent,6,6
+openai/codex,2026-07,safeguard_bypass,deny rule,11,11
+openai/codex,2026-07,safeguard_bypass,without approval,43,43
+openai/codex,2026-07,safeguard_bypass,without asking,11,11
+openai/codex,2026-07,safeguard_bypass,without permission,40,40
+openai/codex,2026-08,destructive,deleted all,13,13
+openai/codex,2026-08,destructive,deleted files,24,24
+openai/codex,2026-08,destructive,deleted my,5,5
+openai/codex,2026-08,destructive,dropped the,62,62
+openai/codex,2026-08,destructive,force push,2,2
+openai/codex,2026-08,destructive,git reset --hard,4,4
+openai/codex,2026-08,destructive,push --force,2,2
+openai/codex,2026-08,destructive,rm -rf,15,15
+openai/codex,2026-08,destructive,wiped,4,4
+openai/codex,2026-08,ignored_instruction,explicitly told,9,9
+openai/codex,2026-08,ignored_instruction,ignored my instructions,1,1
+openai/codex,2026-08,ignored_instruction,ignored the instruction,2,2
+openai/codex,2026-08,ignored_instruction,ignores instructions,1,1
+openai/codex,2026-08,ignored_instruction,told it not to,2,2
+openai/codex,2026-08,misreport,claimed it,10,10
+openai/codex,2026-08,misreport,fabricated,7,7
+openai/codex,2026-08,misreport,falsely claimed,1,1
+openai/codex,2026-08,misreport,lied,1,1
+openai/codex,2026-08,misreport,lying,1,1
+openai/codex,2026-08,safeguard_bypass,bypass the permission,1,1
+openai/codex,2026-08,safeguard_bypass,bypassed,22,22
+openai/codex,2026-08,safeguard_bypass,bypassing,17,17
+openai/codex,2026-08,safeguard_bypass,circumvent,4,4
+openai/codex,2026-08,safeguard_bypass,deny rule,13,13
+openai/codex,2026-08,safeguard_bypass,without approval,44,44
+openai/codex,2026-08,safeguard_bypass,without asking,20,20
+openai/codex,2026-08,safeguard_bypass,without permission,35,35
+openai/codex,2026-09,destructive,deleted all,17,17
+openai/codex,2026-09,destructive,deleted files,51,51
+openai/codex,2026-09,destructive,deleted my,10,10
+openai/codex,2026-09,destructive,drop table,3,3
+openai/codex,2026-09,destructive,dropped the,82,82
+openai/codex,2026-09,destructive,force push,4,4
+openai/codex,2026-09,destructive,git reset --hard,2,2
+openai/codex,2026-09,destructive,push --force,4,4
+openai/codex,2026-09,destructive,rm -rf,7,7
+openai/codex,2026-09,destructive,wiped,3,3
+openai/codex,2026-09,ignored_instruction,explicitly told,9,9
+openai/codex,2026-09,ignored_instruction,ignored my instructions,1,1
+openai/codex,2026-09,ignored_instruction,ignored the instruction,7,7
+openai/codex,2026-09,ignored_instruction,ignores instructions,4,4
+openai/codex,2026-09,ignored_instruction,told it not to,3,3
+openai/codex,2026-09,misreport,claimed it,27,27
+openai/codex,2026-09,misreport,fabricated,13,13
+openai/codex,2026-09,misreport,falsely claimed,4,4
+openai/codex,2026-09,misreport,lied,4,4
+openai/codex,2026-09,misreport,lying,4,4
+openai/codex,2026-09,safeguard_bypass,bypass the permission,9,9
+openai/codex,2026-09,safeguard_bypass,bypassed,43,43
+openai/codex,2026-09,safeguard_bypass,bypassing,51,51
+openai/codex,2026-09,safeguard_bypass,circumvent,31,31
+openai/codex,2026-09,safeguard_bypass,deny rule,199,199
+openai/codex,2026-09,safeguard_bypass,without approval,65,65
+openai/codex,2026-09,safeguard_bypass,without asking,36,36
+openai/codex,2026-09,safeguard_bypass,without permission,57,57

@@ -1,0 +1,2628 @@
+[
+{
+"key": "anthropics/claude-code#2898",
+"reporter_id": "7fda8abc",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"api:vertex",
+"platform:macos",
+"area:core"
+],
+"created": "2025-07-03T04:02:57Z",
+"closed": "2025-09-04T00:29:36Z",
+"comments": 9
+},
+{
+"key": "anthropics/claude-code#2978",
+"reporter_id": "cded1303",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"autoclose"
+],
+"created": "2025-07-04T12:04:09Z",
+"closed": "2026-01-08T10:12:16Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#3006",
+"reporter_id": "a308d1e4",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"enhancement",
+"area:model",
+"area:core"
+],
+"created": "2025-07-05T02:51:39Z",
+"closed": "2026-01-06T10:21:08Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#3109",
+"reporter_id": "c3c7d90f",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-07-07T13:02:45Z",
+"closed": "2025-12-07T18:26:53Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#3216",
+"reporter_id": "3011858e",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:core"
+],
+"created": "2025-07-09T16:01:41Z",
+"closed": "2025-07-09T16:57:18Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#3377",
+"reporter_id": "99d0b29e",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"area:core"
+],
+"created": "2025-07-12T03:47:42Z",
+"closed": "2026-01-22T10:12:25Z",
+"comments": 14
+},
+{
+"key": "anthropics/claude-code#3434",
+"reporter_id": "abffd207",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"enhancement",
+"area:cost",
+"area:model"
+],
+"created": "2025-07-13T10:10:46Z",
+"closed": "2025-08-22T20:58:52Z",
+"comments": 12
+},
+{
+"key": "anthropics/claude-code#3501",
+"reporter_id": "63b9aa65",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:security",
+"autoclose"
+],
+"created": "2025-07-14T19:53:55Z",
+"closed": "2026-01-09T10:13:05Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#3822",
+"reporter_id": "c7b6330b",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:auth",
+"area:model",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-07-17T06:57:58Z",
+"closed": "2026-01-03T10:11:42Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4011",
+"reporter_id": "32ddab7d",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-07-20T06:42:58Z",
+"closed": "2026-01-05T10:13:30Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#4091",
+"reporter_id": "00f91f85",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"area:tools",
+"memory",
+"autoclose"
+],
+"created": "2025-07-21T16:25:42Z",
+"closed": "2026-01-04T10:12:18Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4129",
+"reporter_id": "7af8210c",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-22T10:58:18Z",
+"closed": "2025-08-19T09:14:00Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#4281",
+"reporter_id": "6bfe1380",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-24T07:15:13Z",
+"closed": "2025-08-19T09:12:03Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4287",
+"reporter_id": "f3872ae3",
+"state": "open",
+"state_reason": null,
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core"
+],
+"created": "2025-07-24T10:01:18Z",
+"closed": null,
+"comments": 17
+},
+{
+"key": "anthropics/claude-code#4364",
+"reporter_id": "b96fd2df",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:tools",
+"area:security"
+],
+"created": "2025-07-25T05:51:58Z",
+"closed": "2026-01-24T10:09:36Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#4450",
+"reporter_id": "9f9e1f1e",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"bug"
+],
+"created": "2025-07-25T19:21:15Z",
+"closed": "2025-07-25T21:15:38Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#4517",
+"reporter_id": "a9b76147",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-27T02:53:53Z",
+"closed": "2025-08-15T18:31:31Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#4550",
+"reporter_id": "aa6a2de4",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"area:core"
+],
+"created": "2025-07-27T20:32:48Z",
+"closed": "2025-07-27T21:10:51Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#4554",
+"reporter_id": "964870fa",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core"
+],
+"created": "2025-07-27T21:29:20Z",
+"closed": "2026-01-04T10:12:13Z",
+"comments": 8
+},
+{
+"key": "anthropics/claude-code#4561",
+"reporter_id": "06846059",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:auth",
+"area:core"
+],
+"created": "2025-07-28T00:44:40Z",
+"closed": "2025-07-28T00:45:40Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#4570",
+"reporter_id": "5cb33cc6",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:tools",
+"area:security"
+],
+"created": "2025-07-28T04:01:54Z",
+"closed": "2025-09-11T21:39:24Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#4578",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-28T07:33:05Z",
+"closed": "2025-08-15T18:30:44Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#4606",
+"reporter_id": "ae2e1eb5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-28T19:03:33Z",
+"closed": "2025-08-15T18:30:25Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#4721",
+"reporter_id": "5664d242",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:security"
+],
+"created": "2025-07-29T20:31:23Z",
+"closed": "2025-08-06T21:36:55Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#4780",
+"reporter_id": "ca2e79e7",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-30T16:19:47Z",
+"closed": "2025-08-15T18:07:45Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4801",
+"reporter_id": "12f095f5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:security",
+"autoclose"
+],
+"created": "2025-07-30T20:42:25Z",
+"closed": "2026-01-07T10:15:28Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#4835",
+"reporter_id": "82f41123",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-31T06:30:30Z",
+"closed": "2025-08-19T09:10:10Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4856",
+"reporter_id": "71db9e2f",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-31T12:06:17Z",
+"closed": "2025-08-19T09:10:07Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4881",
+"reporter_id": "7415e628",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-07-31T20:43:37Z",
+"closed": "2025-08-15T18:07:06Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#4882",
+"reporter_id": "5c5659b9",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-07-31T20:51:02Z",
+"closed": "2026-01-06T10:15:05Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#4959",
+"reporter_id": "ca753229",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:tools",
+"area:security"
+],
+"created": "2025-08-02T02:44:07Z",
+"closed": "2025-08-06T21:37:14Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#4987",
+"reporter_id": "81c931f3",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"invalid"
+],
+"created": "2025-08-02T16:52:57Z",
+"closed": "2025-08-15T14:47:36Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#5033",
+"reporter_id": "81c931f3",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:windows",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-08-03T10:19:49Z",
+"closed": "2026-01-04T10:15:06Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#5052",
+"reporter_id": "ca478aee",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-03T14:41:39Z",
+"closed": "2025-08-15T18:04:54Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#5055",
+"reporter_id": "f50909b3",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:core",
+"memory"
+],
+"created": "2025-08-03T18:30:44Z",
+"closed": "2025-08-22T20:20:14Z",
+"comments": 13
+},
+{
+"key": "anthropics/claude-code#5079",
+"reporter_id": "aaeb6f9d",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-08-04T03:58:20Z",
+"closed": "2026-01-06T10:15:29Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#5087",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-04T06:59:08Z",
+"closed": "2025-08-15T18:04:33Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#5119",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:macos",
+"area:auth",
+"area:core",
+"autoclose"
+],
+"created": "2025-08-05T00:35:43Z",
+"closed": "2026-01-03T10:12:34Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#5213",
+"reporter_id": "6c1a2bc7",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-06T04:21:21Z",
+"closed": "2025-08-19T09:09:36Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5256",
+"reporter_id": "7cc97766",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools"
+],
+"created": "2025-08-06T16:22:46Z",
+"closed": "2026-01-17T10:10:06Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#5269",
+"reporter_id": "7415e628",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"area:model",
+"area:core"
+],
+"created": "2025-08-06T19:21:45Z",
+"closed": "2025-08-06T19:29:23Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#5274",
+"reporter_id": "7415e628",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"question"
+],
+"created": "2025-08-06T19:39:07Z",
+"closed": "2025-08-06T19:42:55Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#5320",
+"reporter_id": "a9ea0cb2",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"area:core",
+"area:security"
+],
+"created": "2025-08-07T13:19:34Z",
+"closed": "2025-08-22T18:20:10Z",
+"comments": 33
+},
+{
+"key": "anthropics/claude-code#5370",
+"reporter_id": "5f1257c3",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-08T04:22:52Z",
+"closed": "2025-08-15T18:01:20Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5516",
+"reporter_id": "50a6ffc3",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"area:security",
+"memory",
+"autoclose"
+],
+"created": "2025-08-10T23:09:45Z",
+"closed": "2026-01-05T10:21:12Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#5528",
+"reporter_id": "ba184c1c",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-11T04:38:05Z",
+"closed": "2025-08-15T17:59:39Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5535",
+"reporter_id": "99d0b29e",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-11T08:42:09Z",
+"closed": "2025-08-19T09:08:54Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5555",
+"reporter_id": "6b68055c",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"enhancement",
+"has repro",
+"platform:linux",
+"area:mcp",
+"area:security"
+],
+"created": "2025-08-11T16:44:11Z",
+"closed": "2026-01-11T10:14:32Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5578",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-12T01:44:59Z",
+"closed": "2025-08-15T17:59:09Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5631",
+"reporter_id": "6e042f11",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-12T16:43:38Z",
+"closed": "2025-08-19T09:08:29Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#5632",
+"reporter_id": "767f4ec5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:tools",
+"area:security",
+"autoclose"
+],
+"created": "2025-08-12T17:19:15Z",
+"closed": "2026-01-03T10:13:27Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#5731",
+"reporter_id": "be2039b5",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"enhancement",
+"area:core",
+"memory"
+],
+"created": "2025-08-14T02:59:50Z",
+"closed": "2025-08-14T03:17:52Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5824",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"area:api",
+"perf:memory",
+"autoclose"
+],
+"created": "2025-08-15T07:33:46Z",
+"closed": "2026-01-05T10:13:58Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#5834",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"autoclose"
+],
+"created": "2025-08-15T12:41:43Z",
+"closed": "2026-01-05T10:13:53Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#5838",
+"reporter_id": "5759b5fb",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-15T13:51:44Z",
+"closed": "2025-08-19T09:07:26Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#5843",
+"reporter_id": "81c931f3",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"duplicate",
+"invalid",
+"platform:windows"
+],
+"created": "2025-08-15T14:46:59Z",
+"closed": "2025-11-29T21:02:20Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#5938",
+"reporter_id": "1f61dbec",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:security",
+"autoclose"
+],
+"created": "2025-08-16T19:57:30Z",
+"closed": "2026-01-06T10:13:15Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#5941",
+"reporter_id": "204eaaa7",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:core",
+"autoclose"
+],
+"created": "2025-08-16T20:46:40Z",
+"closed": "2026-01-09T10:10:08Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#5970",
+"reporter_id": "3db3d643",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-17T15:41:38Z",
+"closed": "2025-08-21T09:07:46Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6000",
+"reporter_id": "58733542",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"area:cost",
+"area:model",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-08-18T00:56:19Z",
+"closed": "2026-01-06T10:13:34Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#6036",
+"reporter_id": "bdf2c3d4",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:security"
+],
+"created": "2025-08-18T12:45:44Z",
+"closed": "2026-01-13T10:10:31Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#6051",
+"reporter_id": "eee71a69",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-18T17:50:52Z",
+"closed": "2025-08-22T09:07:21Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6053",
+"reporter_id": "bdf2c3d4",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:security",
+"autoclose"
+],
+"created": "2025-08-18T18:02:22Z",
+"closed": "2026-01-05T10:24:19Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#6059",
+"reporter_id": "9fb5c5a3",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"memory"
+],
+"created": "2025-08-18T19:24:17Z",
+"closed": "2026-01-31T10:29:10Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#6065",
+"reporter_id": "c2b40b16",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-18T21:29:45Z",
+"closed": "2025-08-22T09:07:12Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6079",
+"reporter_id": "3db3d643",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"platform:linux",
+"area:core"
+],
+"created": "2025-08-19T01:24:09Z",
+"closed": "2025-08-19T02:26:27Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#6089",
+"reporter_id": "73d9cda8",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:mcp",
+"autoclose"
+],
+"created": "2025-08-19T05:32:14Z",
+"closed": "2026-01-06T10:14:11Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6109",
+"reporter_id": "725a8049",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:core"
+],
+"created": "2025-08-19T11:10:33Z",
+"closed": "2026-01-19T10:13:05Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#6120",
+"reporter_id": "ec7a529a",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"memory"
+],
+"created": "2025-08-19T14:57:58Z",
+"closed": "2025-08-20T21:59:07Z",
+"comments": 15
+},
+{
+"key": "anthropics/claude-code#6125",
+"reporter_id": "2a06ca30",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"platform:macos",
+"area:core",
+"memory"
+],
+"created": "2025-08-19T16:26:04Z",
+"closed": "2025-08-19T18:02:48Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#6167",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"autoclose"
+],
+"created": "2025-08-20T08:14:50Z",
+"closed": "2026-01-05T10:15:23Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#6176",
+"reporter_id": "0c53e87e",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core"
+],
+"created": "2025-08-20T10:33:16Z",
+"closed": "2025-08-20T20:00:23Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#6193",
+"reporter_id": "5c5659b9",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"area:model",
+"area:core"
+],
+"created": "2025-08-20T16:06:42Z",
+"closed": "2025-08-20T19:57:48Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#6219",
+"reporter_id": "2e1e3aa2",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"invalid"
+],
+"created": "2025-08-20T23:37:11Z",
+"closed": "2025-08-21T00:04:57Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#6221",
+"reporter_id": "2e1e3aa2",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"invalid",
+"platform:windows"
+],
+"created": "2025-08-20T23:49:13Z",
+"closed": "2025-08-21T00:02:43Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#6319",
+"reporter_id": "bd620cc5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-08-22T08:39:35Z",
+"closed": "2026-01-07T10:11:02Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6494",
+"reporter_id": "5759b5fb",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-25T04:43:09Z",
+"closed": "2025-08-28T09:07:07Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6495",
+"reporter_id": "14473752",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:core",
+"area:security"
+],
+"created": "2025-08-25T06:00:31Z",
+"closed": "2026-01-05T10:16:05Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#6528",
+"reporter_id": "4a90e4a2",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-25T15:07:01Z",
+"closed": "2025-08-29T09:07:22Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6608",
+"reporter_id": "62f7a22e",
+"state": "open",
+"state_reason": null,
+"labels": [
+"bug",
+"area:permissions"
+],
+"created": "2025-08-26T16:58:39Z",
+"closed": null,
+"comments": 23
+},
+{
+"key": "anthropics/claude-code#6631",
+"reporter_id": "0e3d7db6",
+"state": "closed",
+"state_reason": "completed",
+"labels": [],
+"created": "2025-08-27T01:31:59Z",
+"closed": "2025-09-02T14:27:55Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#6677",
+"reporter_id": "822e6837",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"memory",
+"autoclose"
+],
+"created": "2025-08-27T17:28:29Z",
+"closed": "2026-01-04T10:16:44Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#6699",
+"reporter_id": "964870fa",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"area:security"
+],
+"created": "2025-08-28T01:22:28Z",
+"closed": "2025-09-02T14:28:18Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#6734",
+"reporter_id": "1f5c9d87",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-08-28T10:00:58Z",
+"closed": "2025-09-01T09:08:48Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6810",
+"reporter_id": "9af0d866",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"area:core",
+"autoclose"
+],
+"created": "2025-08-29T10:57:16Z",
+"closed": "2026-01-05T10:18:43Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6824",
+"reporter_id": "3db3d643",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"platform:linux",
+"area:tools",
+"area:core",
+"area:security"
+],
+"created": "2025-08-29T17:02:22Z",
+"closed": "2025-08-29T17:18:16Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#6896",
+"reporter_id": "ab285ef0",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:security",
+"autoclose"
+],
+"created": "2025-08-31T02:01:30Z",
+"closed": "2026-01-05T10:20:09Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#6928",
+"reporter_id": "e720e7fa",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"autoclose"
+],
+"created": "2025-08-31T21:29:37Z",
+"closed": "2026-01-05T10:20:05Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6934",
+"reporter_id": "14cb7368",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:core",
+"area:mcp",
+"area:security",
+"autoclose"
+],
+"created": "2025-09-01T02:13:14Z",
+"closed": "2026-01-05T10:20:10Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#6969",
+"reporter_id": "ab2d96e9",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"platform:macos",
+"area:tools",
+"area:core",
+"memory"
+],
+"created": "2025-09-01T19:07:18Z",
+"closed": "2025-09-01T19:07:41Z",
+"comments": 1
+},
+{
+"key": "anthropics/claude-code#7013",
+"reporter_id": "b3242696",
+"state": "open",
+"state_reason": null,
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core"
+],
+"created": "2025-09-02T14:20:35Z",
+"closed": null,
+"comments": 13
+},
+{
+"key": "anthropics/claude-code#7029",
+"reporter_id": "377372c2",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"enhancement",
+"area:tools",
+"area:core",
+"area:security",
+"autoclose"
+],
+"created": "2025-09-02T21:44:20Z",
+"closed": "2026-01-07T10:15:23Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#7074",
+"reporter_id": "b058c3a4",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-03T15:24:20Z",
+"closed": "2025-09-07T09:06:03Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7083",
+"reporter_id": "b3242696",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core",
+"memory"
+],
+"created": "2025-09-03T19:26:31Z",
+"closed": "2026-01-05T10:22:14Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#7142",
+"reporter_id": "4e9e30d8",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"platform:macos",
+"area:core"
+],
+"created": "2025-09-04T14:56:02Z",
+"closed": "2025-09-05T05:58:53Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#7150",
+"reporter_id": "068091f5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-04T16:41:36Z",
+"closed": "2025-09-08T09:07:58Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7183",
+"reporter_id": "ff235ac0",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:security",
+"model"
+],
+"created": "2025-09-05T01:08:11Z",
+"closed": "2025-09-05T22:46:12Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#7212",
+"reporter_id": "17db0ed4",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-05T16:55:27Z",
+"closed": "2026-01-05T10:20:36Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7232",
+"reporter_id": "4dc51250",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:tools",
+"area:core",
+"area:security",
+"autoclose"
+],
+"created": "2025-09-06T01:48:31Z",
+"closed": "2026-01-10T10:11:08Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#7248",
+"reporter_id": "3db3d643",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-06T14:50:32Z",
+"closed": "2026-01-08T10:11:44Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#7249",
+"reporter_id": "b0d4e3b9",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"area:model",
+"area:core"
+],
+"created": "2025-09-06T16:19:54Z",
+"closed": "2025-11-10T12:08:10Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#7257",
+"reporter_id": "7ba7ad4f",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-07T03:22:19Z",
+"closed": "2025-09-10T09:07:04Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7258",
+"reporter_id": "7ba7ad4f",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"perf:memory",
+"autoclose"
+],
+"created": "2025-09-07T03:42:46Z",
+"closed": "2026-01-05T10:21:13Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7259",
+"reporter_id": "602f35bd",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"platform:macos",
+"area:core"
+],
+"created": "2025-09-07T07:00:56Z",
+"closed": "2025-09-07T07:02:35Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#7278",
+"reporter_id": "526a9784",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:linux",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-07T21:47:45Z",
+"closed": "2026-01-10T10:14:36Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#7381",
+"reporter_id": "e495da9a",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"stale"
+],
+"created": "2025-09-10T03:25:10Z",
+"closed": "2026-03-04T10:16:19Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#7439",
+"reporter_id": "16985864",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-11T08:43:43Z",
+"closed": "2025-09-14T09:05:43Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7449",
+"reporter_id": "91bb16b7",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-11T12:05:57Z",
+"closed": "2025-09-15T09:08:09Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7451",
+"reporter_id": "fcb039d1",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"invalid"
+],
+"created": "2025-09-11T12:30:57Z",
+"closed": "2025-11-29T20:57:06Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#7462",
+"reporter_id": "aba7f8b5",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"area:security",
+"autoclose"
+],
+"created": "2025-09-11T16:13:28Z",
+"closed": "2026-01-06T10:14:20Z",
+"comments": 9
+},
+{
+"key": "anthropics/claude-code#7465",
+"reporter_id": "dbdbdf3d",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"model",
+"autoclose"
+],
+"created": "2025-09-11T17:22:46Z",
+"closed": "2026-01-12T10:12:19Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#7474",
+"reporter_id": "71b03b0e",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-11T20:25:25Z",
+"closed": "2026-01-07T10:13:05Z",
+"comments": 7
+},
+{
+"key": "anthropics/claude-code#7494",
+"reporter_id": "4e011221",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:security"
+],
+"created": "2025-09-12T05:27:58Z",
+"closed": "2025-09-12T05:39:33Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#7514",
+"reporter_id": "f85da5bc",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"enhancement",
+"platform:linux",
+"area:tools",
+"area:security",
+"autoclose"
+],
+"created": "2025-09-12T09:49:25Z",
+"closed": "2026-01-08T10:17:23Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#7561",
+"reporter_id": "4bb0055d",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-13T16:53:08Z",
+"closed": "2026-01-08T10:13:28Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#7571",
+"reporter_id": "28109821",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core"
+],
+"created": "2025-09-14T00:43:05Z",
+"closed": "2026-01-29T10:20:14Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#7603",
+"reporter_id": "e4d9b8cc",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-14T21:12:55Z",
+"closed": "2026-01-07T10:13:15Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7614",
+"reporter_id": "70da19dc",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-15T03:42:29Z",
+"closed": "2025-09-18T09:07:03Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7635",
+"reporter_id": "37b5c01a",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-15T11:36:38Z",
+"closed": "2026-01-06T10:17:06Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#7645",
+"reporter_id": "ec0692f9",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"api:bedrock",
+"area:core",
+"model"
+],
+"created": "2025-09-15T14:53:33Z",
+"closed": "2025-09-15T15:09:10Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7664",
+"reporter_id": "1c821200",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core"
+],
+"created": "2025-09-15T20:46:50Z",
+"closed": "2025-09-16T21:17:14Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#7688",
+"reporter_id": "b058c3a4",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:macos",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-16T08:38:39Z",
+"closed": "2026-01-05T10:21:21Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7724",
+"reporter_id": "d094d1be",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-16T22:17:01Z",
+"closed": "2026-01-05T10:21:48Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#7777",
+"reporter_id": "00849bcd",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:core",
+"memory"
+],
+"created": "2025-09-17T17:01:13Z",
+"closed": "2026-01-26T10:13:27Z",
+"comments": 17
+},
+{
+"key": "anthropics/claude-code#7794",
+"reporter_id": "715d9b88",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-17T23:15:18Z",
+"closed": "2025-09-25T09:07:35Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7797",
+"reporter_id": "bddd2b26",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core"
+],
+"created": "2025-09-17T23:52:38Z",
+"closed": "2025-11-27T18:42:42Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#7816",
+"reporter_id": "b3491e63",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-18T12:27:16Z",
+"closed": "2025-09-25T09:07:12Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7826",
+"reporter_id": "d9c4f843",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"autoclose"
+],
+"created": "2025-09-18T18:25:04Z",
+"closed": "2026-01-06T10:16:54Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7834",
+"reporter_id": "f73e3d46",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-18T19:54:31Z",
+"closed": "2026-01-08T10:19:08Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#7843",
+"reporter_id": "9467b472",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-18T20:55:46Z",
+"closed": "2026-01-06T10:17:04Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#7899",
+"reporter_id": "f46630b9",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core"
+],
+"created": "2025-09-19T18:32:43Z",
+"closed": "2025-09-19T19:46:29Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#7915",
+"reporter_id": "4a54c335",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:macos",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-19T23:39:43Z",
+"closed": "2026-01-06T10:17:56Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#7987",
+"reporter_id": "e4d9b8cc",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tui",
+"autoclose"
+],
+"created": "2025-09-21T21:03:47Z",
+"closed": "2026-01-08T10:14:30Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8026",
+"reporter_id": "7d7327f3",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"area:core",
+"model",
+"autoclose"
+],
+"created": "2025-09-22T20:04:09Z",
+"closed": "2026-01-10T10:08:21Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8059",
+"reporter_id": "f132be8e",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"model",
+"stale"
+],
+"created": "2025-09-23T13:32:19Z",
+"closed": "2026-03-14T22:10:45Z",
+"comments": 18
+},
+{
+"key": "anthropics/claude-code#8066",
+"reporter_id": "5e662acf",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:macos",
+"area:tools",
+"autoclose"
+],
+"created": "2025-09-23T17:18:30Z",
+"closed": "2026-01-06T10:18:02Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8079",
+"reporter_id": "c5a0e911",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-23T20:22:46Z",
+"closed": "2026-01-06T10:18:15Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#8154",
+"reporter_id": "46fe3a4c",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"model",
+"autoclose"
+],
+"created": "2025-09-24T20:46:21Z",
+"closed": "2026-01-09T10:10:36Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8168",
+"reporter_id": "57b073ad",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-09-25T04:27:44Z",
+"closed": "2025-09-28T09:05:20Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8247",
+"reporter_id": "b42857ce",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"area:model",
+"model",
+"autoclose"
+],
+"created": "2025-09-26T22:31:04Z",
+"closed": "2026-01-09T10:14:57Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8299",
+"reporter_id": "5196c460",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:windows",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-28T11:21:22Z",
+"closed": "2026-01-09T10:15:24Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8499",
+"reporter_id": "0ba34c95",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:tools",
+"autoclose"
+],
+"created": "2025-09-30T16:41:53Z",
+"closed": "2026-01-06T10:19:19Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#8549",
+"reporter_id": "4effbe7f",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"autoclose"
+],
+"created": "2025-09-30T23:33:26Z",
+"closed": "2026-01-08T10:13:01Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8580",
+"reporter_id": "e4d9b8cc",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-01T03:18:02Z",
+"closed": "2026-01-07T10:16:12Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#8687",
+"reporter_id": "a77df6dc",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"platform:macos",
+"area:model",
+"area:api",
+"autoclose"
+],
+"created": "2025-10-01T19:54:20Z",
+"closed": "2026-01-06T10:19:33Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8719",
+"reporter_id": "c75491b5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-02T04:39:00Z",
+"closed": "2025-10-05T09:05:01Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8738",
+"reporter_id": "60197485",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-02T09:56:19Z",
+"closed": "2026-01-13T10:12:26Z",
+"comments": 10
+},
+{
+"key": "anthropics/claude-code#8766",
+"reporter_id": "aba7f8b5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-02T16:23:19Z",
+"closed": "2025-10-06T09:06:49Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8771",
+"reporter_id": "7d0a6a12",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-02T17:18:56Z",
+"closed": "2026-01-07T10:19:26Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#8782",
+"reporter_id": "ff64ef24",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:mcp",
+"model",
+"autoclose"
+],
+"created": "2025-10-02T19:56:36Z",
+"closed": "2026-01-07T10:19:30Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8814",
+"reporter_id": "a99ea1a8",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-03T05:41:43Z",
+"closed": "2025-10-06T09:06:17Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#8910",
+"reporter_id": "00f020c8",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"area:core",
+"model",
+"autoclose"
+],
+"created": "2025-10-04T10:45:18Z",
+"closed": "2026-01-09T10:12:11Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#8960",
+"reporter_id": "f7875dbc",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"area:core",
+"model"
+],
+"created": "2025-10-05T09:38:50Z",
+"closed": "2025-10-05T16:49:00Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#8961",
+"reporter_id": "0412ca05",
+"state": "open",
+"state_reason": null,
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"area:security",
+"area:permissions"
+],
+"created": "2025-10-05T09:43:21Z",
+"closed": null,
+"comments": 19
+},
+{
+"key": "anthropics/claude-code#8970",
+"reporter_id": "5762caa3",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"model",
+"autoclose"
+],
+"created": "2025-10-05T15:40:33Z",
+"closed": "2026-01-09T10:12:40Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#9033",
+"reporter_id": "9502afc8",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:core",
+"area:security",
+"autoclose"
+],
+"created": "2025-10-06T17:32:55Z",
+"closed": "2026-01-08T10:18:27Z",
+"comments": 9
+},
+{
+"key": "anthropics/claude-code#9078",
+"reporter_id": "bd446360",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core"
+],
+"created": "2025-10-07T14:34:48Z",
+"closed": "2025-10-08T10:56:51Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#9115",
+"reporter_id": "1da1349e",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"area:cost",
+"area:api",
+"model",
+"autoclose"
+],
+"created": "2025-10-08T00:06:22Z",
+"closed": "2026-01-12T10:11:57Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#9128",
+"reporter_id": "8c0302aa",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-08T06:32:47Z",
+"closed": "2026-01-07T10:20:46Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#9228",
+"reporter_id": "bec0ffab",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:tools",
+"area:model",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-09T16:33:23Z",
+"closed": "2026-01-10T10:09:00Z",
+"comments": 5
+},
+{
+"key": "anthropics/claude-code#9553",
+"reporter_id": "ff7cbb73",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-15T02:23:20Z",
+"closed": "2026-01-11T10:09:04Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#9590",
+"reporter_id": "ead6ef03",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-15T16:52:11Z",
+"closed": "2025-10-19T09:05:44Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#9701",
+"reporter_id": "af136c0e",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-17T01:51:56Z",
+"closed": "2025-10-20T09:06:27Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#9796",
+"reporter_id": "c23234b9",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"memory"
+],
+"created": "2025-10-17T22:58:53Z",
+"closed": "2026-08-16T22:08:12Z",
+"comments": 30
+},
+{
+"key": "anthropics/claude-code#9866",
+"reporter_id": "11ec94d7",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-18T18:31:21Z",
+"closed": "2025-10-22T09:07:03Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#10089",
+"reporter_id": "8d348fe4",
+"state": "closed",
+"state_reason": "completed",
+"labels": [],
+"created": "2025-10-22T05:43:46Z",
+"closed": "2026-08-20T04:09:07Z",
+"comments": 11
+},
+{
+"key": "anthropics/claude-code#10128",
+"reporter_id": "f82ddfc5",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-22T18:10:56Z",
+"closed": "2025-10-26T09:05:15Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#10235",
+"reporter_id": "f2b7b55e",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:linux",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-24T10:02:00Z",
+"closed": "2026-01-10T10:14:12Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#10267",
+"reporter_id": "a9da0fa8",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"autoclose"
+],
+"created": "2025-10-24T18:47:25Z",
+"closed": "2026-01-12T10:13:24Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#10374",
+"reporter_id": "f33dcb24",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"enhancement",
+"area:auth",
+"area:model",
+"area:core",
+"area:security",
+"autoclose",
+"area:claude-code-web"
+],
+"created": "2025-10-26T13:53:01Z",
+"closed": "2026-01-12T10:15:03Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#10393",
+"reporter_id": "14648e2b",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:windows",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-26T20:34:56Z",
+"closed": "2025-12-08T19:45:43Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#10398",
+"reporter_id": "c1f3eb21",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"duplicate"
+],
+"created": "2025-10-26T22:41:08Z",
+"closed": "2025-10-30T09:06:16Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#10400",
+"reporter_id": "602b5dbb",
+"state": "closed",
+"state_reason": "completed",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"autoclose"
+],
+"created": "2025-10-27T00:00:40Z",
+"closed": "2026-01-03T06:14:14Z",
+"comments": 6
+},
+{
+"key": "anthropics/claude-code#10468",
+"reporter_id": "8b1de668",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:tools",
+"area:core",
+"autoclose"
+],
+"created": "2025-10-28T00:55:40Z",
+"closed": "2026-01-10T10:10:05Z",
+"comments": 4
+},
+{
+"key": "anthropics/claude-code#10488",
+"reporter_id": "f0b4a0a6",
+"state": "closed",
+"state_reason": "duplicate",
+"labels": [
+"bug",
+"has repro",
+"area:core",
+"model"
+],
+"created": "2025-10-28T08:38:58Z",
+"closed": "2025-10-28T08:49:03Z",
+"comments": 2
+},
+{
+"key": "anthropics/claude-code#10555",
+"reporter_id": "6f366649",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"area:api",
+"autoclose"
+],
+"created": "2025-10-29T10:27:45Z",
+"closed": "2026-01-12T10:12:04Z",
+"comments": 3
+},
+{
+"key": "anthropics/claude-code#10683",
+"reporter_id": "033afb82",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"platform:macos",
+"area:core",
+"memory"
+],
+"created": "2025-10-31T05:12:43Z",
+"closed": "2026-01-16T10:11:49Z",
+"comments": 9
+},
+{
+"key": "anthropics/claude-code#10726",
+"reporter_id": "a3ed655a",
+"state": "closed",
+"state_reason": "not_planned",
+"labels": [
+"bug",
+"has repro",
+"area:model",
+"area:core",
+"model",
+"autoclose"
+],
+"created": "2025-10-31T15:25:40Z",
+"closed": "2026-01-10T10:13:39Z",
+"comments": 3
+}
+]

@@ -1,0 +1,15 @@
+,est,lo,hi
+loc_ratio_claude-code,1.11,1.01,1.22
+loc_ratio_codex,0.55,0.37,0.85
+loc_ratio_gemini-cli,2.46,1.1,4.54
+loc_ratio_pooled,1.23,1.14,1.33
+loc_ratio_fixmix_P1w,1.19,1.05,1.37
+loc_ratio_fixmix_P2w,1.04,0.95,1.13
+loc_ratio_cc+codex_P2w,1.02,0.94,1.12
+c45_ratio_claude-code,1.4,1.15,1.76
+c45_ratio_codex,0.74,0.4,1.58
+c45_ratio_gemini-cli,2.7,0.48,8.77
+c45_ratio_pooled,1.59,1.32,1.94
+c45_ratio_fixmix_P1w,1.42,1.14,1.79
+c45_ratio_fixmix_P2w,1.29,1.05,1.6
+c45_ratio_cc+codex_P2w,1.28,1.05,1.59

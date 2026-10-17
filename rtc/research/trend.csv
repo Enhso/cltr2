@@ -1,0 +1,4 @@
+metric,pct_per_quarter,lo,hi
+keyword matches per 1k issues (exact count),24.6,,
+LoC share of matches (precision),-5.6,-12.5,112.5
+LoC reports per 1k issues,17.6,9.0,283.0
